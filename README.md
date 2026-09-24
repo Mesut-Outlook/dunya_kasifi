@@ -3,7 +3,7 @@
 Atlas, küre ve coğrafya oyunları (Türkçe + Nederlands).
 Atlas, globe en aardrijkskundespellen (Turks + Nederlands).
 
-**Oyna / Speel:** https://mesut-dev.github.io/Dunya_Kasifi/
+**Oyna / Speel:** https://mesut-outlook.github.io/dunya_kasifi/
 
 ## Derleme / Bouwen
 
