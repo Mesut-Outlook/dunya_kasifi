@@ -1,0 +1,262 @@
+{
+  "warning": "De opgegeven PDF 'aardrijkskunde_extra_topografie.pdf' bevat GEEN topografielijst: het zijn de laatste pagina's van het boek (p.235 samenvatting H5, p.236 begrippen H5, p.237 aantekeningen, Register, Bronvermelding, achterkaft). buiteNLand 3 havo (5e editie) heeft geen gedrukte topografie; volgens 'Zo werk je met buiteNLand' oefen je topografie op buiteNLand online / TopoTrainer (Bosatlas Online). Onderstaande items komen uit de inhoudsopgave en losse vermeldingen, niet uit een officiële leerlijst.",
+  "book": "buiteNLand 3 havo, 5e editie (Noordhoff, ISBN 978-90-01-02237-2)",
+  "sections": [
+    {
+      "title": "H1 Wereldhandel in beweging – landenvergelijking (Inhoud p.34)",
+      "chapter": "h01",
+      "source": "welkom.pdf Inhoud",
+      "items": [
+        {
+          "name_nl": "Verenigde Staten",
+          "name_tr": "Amerika Birleşik Devletleri",
+          "type": "country",
+          "country": "US",
+          "lat": 39.8,
+          "lon": -98.6,
+          "note_nl": "Wereld: Verenigde Staten en Zuid-Afrika"
+        },
+        {
+          "name_nl": "Zuid-Afrika",
+          "name_tr": "Güney Afrika",
+          "type": "country",
+          "country": "ZA",
+          "lat": -29.0,
+          "lon": 24.0,
+          "note_nl": "Wereld: Verenigde Staten en Zuid-Afrika"
+        }
+      ]
+    },
+    {
+      "title": "H1 In vogelvlucht – kijkplaat (p.49, opdracht 1b)",
+      "chapter": "h01",
+      "source": "h01.pdf p.49",
+      "items": [
+        {
+          "name_nl": "Amsterdam",
+          "name_tr": "Amsterdam",
+          "type": "capital",
+          "country": "NL",
+          "lat": 52.37,
+          "lon": 4.9,
+          "note_nl": "keuzelijst opdracht 1b"
+        },
+        {
+          "name_nl": "Brussel",
+          "name_tr": "Brüksel",
+          "type": "capital",
+          "country": "BE",
+          "lat": 50.85,
+          "lon": 4.35,
+          "note_nl": "Europees Parlement op de kijkplaat"
+        },
+        {
+          "name_nl": "Eindhoven",
+          "name_tr": "Eindhoven",
+          "type": "city",
+          "country": "NL",
+          "lat": 51.44,
+          "lon": 5.47,
+          "note_nl": "technologiebedrijf (brainport)"
+        },
+        {
+          "name_nl": "Rotterdam",
+          "name_tr": "Rotterdam",
+          "type": "port",
+          "country": "NL",
+          "lat": 51.92,
+          "lon": 4.48,
+          "note_nl": "haven"
+        },
+        {
+          "name_nl": "Schiphol",
+          "name_tr": "Schiphol Havalimanı",
+          "type": "other",
+          "country": "NL",
+          "lat": 52.31,
+          "lon": 4.76,
+          "note_nl": "luchthaven"
+        }
+      ]
+    },
+    {
+      "title": "H2 Schatkist aarde? – landenvergelijking (Inhoud p.80)",
+      "chapter": "h02",
+      "source": "welkom.pdf Inhoud",
+      "items": [
+        {
+          "name_nl": "Suriname",
+          "name_tr": "Surinam",
+          "type": "country",
+          "country": "SR",
+          "lat": 4.0,
+          "lon": -56.0,
+          "note_nl": "Wereld: Suriname en Nigeria"
+        },
+        {
+          "name_nl": "Nigeria",
+          "name_tr": "Nijerya",
+          "type": "country",
+          "country": "NG",
+          "lat": 9.1,
+          "lon": 8.7,
+          "note_nl": "Wereld: Suriname en Nigeria"
+        },
+        {
+          "name_nl": "Europa",
+          "name_tr": "Avrupa",
+          "type": "region",
+          "country": "",
+          "lat": 54.0,
+          "lon": 15.0,
+          "note_nl": "2.4 Delfstoffen in Europa"
+        },
+        {
+          "name_nl": "Nederland",
+          "name_tr": "Hollanda",
+          "type": "country",
+          "country": "NL",
+          "lat": 52.2,
+          "lon": 5.3,
+          "note_nl": "2.5 Delfstoffen in Nederland"
+        }
+      ]
+    },
+    {
+      "title": "H3 Migratie – landenvergelijking (Inhoud p.126)",
+      "chapter": "h03",
+      "source": "welkom.pdf Inhoud",
+      "items": [
+        {
+          "name_nl": "Verenigde Arabische Emiraten",
+          "name_tr": "Birleşik Arap Emirlikleri",
+          "type": "country",
+          "country": "AE",
+          "lat": 24.0,
+          "lon": 54.0,
+          "note_nl": "Wereld: VAE en Mexico"
+        },
+        {
+          "name_nl": "Mexico",
+          "name_tr": "Meksika",
+          "type": "country",
+          "country": "MX",
+          "lat": 23.6,
+          "lon": -102.5,
+          "note_nl": "Wereld: VAE en Mexico"
+        },
+        {
+          "name_nl": "Europese Unie",
+          "name_tr": "Avrupa Birliği",
+          "type": "region",
+          "country": "",
+          "lat": 50.0,
+          "lon": 10.0,
+          "note_nl": "3.4 Migratie en de Europese Unie"
+        }
+      ]
+    },
+    {
+      "title": "H4 Energietransitie – landenvergelijking (Inhoud p.172)",
+      "chapter": "h04",
+      "source": "welkom.pdf Inhoud",
+      "items": [
+        {
+          "name_nl": "Bolivia",
+          "name_tr": "Bolivya",
+          "type": "country",
+          "country": "BO",
+          "lat": -16.3,
+          "lon": -63.6,
+          "note_nl": "Wereld: Bolivia en Marokko"
+        },
+        {
+          "name_nl": "Marokko",
+          "name_tr": "Fas",
+          "type": "country",
+          "country": "MA",
+          "lat": 31.8,
+          "lon": -7.1,
+          "note_nl": "Wereld: Bolivia en Marokko"
+        }
+      ]
+    },
+    {
+      "title": "H5 Gewapende conflicten – landenvergelijking en Nederland (Inhoud p.218, p.226/235)",
+      "chapter": "h05",
+      "source": "welkom.pdf Inhoud; topografie.pdf p.235-236",
+      "items": [
+        {
+          "name_nl": "Mexico",
+          "name_tr": "Meksika",
+          "type": "country",
+          "country": "MX",
+          "lat": 23.6,
+          "lon": -102.5,
+          "note_nl": "Wereld: Mexico en Niger"
+        },
+        {
+          "name_nl": "Niger",
+          "name_tr": "Nijer",
+          "type": "country",
+          "country": "NE",
+          "lat": 17.6,
+          "lon": 8.1,
+          "note_nl": "Wereld: Mexico en Niger"
+        },
+        {
+          "name_nl": "Den Haag",
+          "name_tr": "Lahey",
+          "type": "city",
+          "country": "NL",
+          "lat": 52.08,
+          "lon": 4.3,
+          "note_nl": "Internationaal Strafhof / Internationaal Gerechtshof"
+        },
+        {
+          "name_nl": "Indonesië",
+          "name_tr": "Endonezya",
+          "type": "country",
+          "country": "ID",
+          "lat": -2.5,
+          "lon": 118.0,
+          "note_nl": "Politionele Acties 1945–1949, onafhankelijk 1949"
+        }
+      ]
+    },
+    {
+      "title": "Omslag (colofon)",
+      "chapter": "extra",
+      "source": "welkom.pdf p.2",
+      "items": [
+        {
+          "name_nl": "Quito",
+          "name_tr": "Kito",
+          "type": "capital",
+          "country": "EC",
+          "lat": -0.18,
+          "lon": -78.47,
+          "note_nl": "omslagfoto; hoofdstad van Ecuador op 2850 m"
+        },
+        {
+          "name_nl": "Pichincha",
+          "name_tr": "Pichincha Yanardağı",
+          "type": "mountain",
+          "country": "EC",
+          "lat": -0.17,
+          "lon": -78.6,
+          "note_nl": "vulkaan bij Quito"
+        },
+        {
+          "name_nl": "Andes",
+          "name_tr": "And Dağları",
+          "type": "range",
+          "country": "",
+          "lat": -15.0,
+          "lon": -70.0,
+          "note_nl": "Zuid-Amerikaanse Andesgebergte"
+        }
+      ]
+    }
+  ]
+}

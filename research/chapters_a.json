@@ -1,0 +1,2588 @@
+{
+  "source": "buiteNLand HAVO 3 aardrijkskunde (Noordhoff, 5e editie), welkom (voorwerk) + hoofdstuk 1 (p.8-53), 2 (p.54-99) en 3 (p.100-145). Tekst via OCR van gescande PDF's; coordinaten bij benadering, uit algemene kennis.",
+  "chapters": [
+    {
+      "id": "welkom",
+      "title_nl": "Welkom bij buiteNLand",
+      "title_tr": "buiteNLand'a hoş geldin",
+      "paragraphs": [
+        "Omslagfoto: Quito, Ecuador",
+        "Inhoud",
+        "Zo werk je met buiteNLand",
+        "Gebruik De Grote Bosatlas 56e editie / Bosatlas Online"
+      ],
+      "concepts": [
+        {
+          "paragraph": "welkom",
+          "nl": "evenaar",
+          "def_nl": "Denkbeeldige lijn rond het midden van de aarde op 0° breedte; verdeelt de aarde in een noordelijk en zuidelijk halfrond.",
+          "tr": "ekvator",
+          "def_tr": "Dünyanın ortasından geçen, 0° enlemindeki hayali çizgi; dünyayı kuzey ve güney yarımküreye ayırır."
+        },
+        {
+          "paragraph": "welkom",
+          "nl": "hoogteligging",
+          "def_nl": "Hoe hoog een plaats boven zeeniveau ligt; hoe hoger, hoe koeler het meestal is.",
+          "tr": "rakım",
+          "def_tr": "Bir yerin deniz seviyesinden yüksekliği; yükseldikçe hava genellikle serinler."
+        },
+        {
+          "paragraph": "welkom",
+          "nl": "vulkaan",
+          "def_nl": "Berg waaruit magma als lava, as en gas naar buiten komt.",
+          "tr": "yanardağ",
+          "def_tr": "İçinden magmanın lav, kül ve gaz olarak dışarı çıktığı dağ."
+        },
+        {
+          "paragraph": "welkom",
+          "nl": "atlas",
+          "def_nl": "Boek of website met kaarten; in dit boek De Grote Bosatlas (GB) en Bosatlas Online.",
+          "tr": "atlas",
+          "def_tr": "Haritalardan oluşan kitap veya web sitesi; bu kitapta Büyük Bosatlas (GB) ve Bosatlas Online kullanılır."
+        },
+        {
+          "paragraph": "welkom",
+          "nl": "topografie",
+          "def_nl": "Kennis van de ligging en namen van plaatsen, landen, rivieren en gebergten.",
+          "tr": "topografya (yer bilgisi)",
+          "def_tr": "Şehirlerin, ülkelerin, nehirlerin ve dağların adlarını ve konumlarını bilme."
+        },
+        {
+          "paragraph": "welkom",
+          "nl": "megastad",
+          "def_nl": "Stad met meer dan 10 miljoen inwoners.",
+          "tr": "megakent",
+          "def_tr": "10 milyondan fazla nüfusu olan şehir."
+        }
+      ],
+      "places": [
+        {
+          "name_nl": "Quito",
+          "name_tr": "Kito",
+          "type": "city",
+          "country": "EC",
+          "lat": -0.22,
+          "lon": -78.51,
+          "fact_nl": "Hoofdstad van Ecuador op de omslag: ligt op slechts 20 km van de evenaar, maar op 2850 m hoogte en is daardoor meestal koel. De stad is ongeveer 70 km lang.",
+          "fact_tr": "Ekvador'un başkenti, kitabın kapağında: ekvatora yalnızca 20 km uzaklıkta ama 2850 m yükseklikte olduğu için genellikle serindir. Şehir yaklaşık 70 km uzunluğundadır."
+        },
+        {
+          "name_nl": "Pichincha",
+          "name_tr": "Pichincha",
+          "type": "other",
+          "country": "EC",
+          "lat": -0.17,
+          "lon": -78.6,
+          "fact_nl": "Vulkaan in de Andes; Quito ligt tegen de flanken van de Pichincha.",
+          "fact_tr": "And Dağları'nda bir yanardağ; Kito onun yamaçlarına kurulmuştur."
+        },
+        {
+          "name_nl": "Andes",
+          "name_tr": "And Dağları",
+          "type": "region",
+          "country": "EC",
+          "lat": -10.0,
+          "lon": -75.0,
+          "fact_nl": "Lang gebergte langs de westkust van Zuid-Amerika; Quito was ooit een belangrijke Incastad in de Andes.",
+          "fact_tr": "Güney Amerika'nın batı kıyısı boyunca uzanan uzun sıradağlar; Kito bir zamanlar And Dağları'nda önemli bir İnka şehriydi."
+        },
+        {
+          "name_nl": "Ecuador",
+          "name_tr": "Ekvador",
+          "type": "country",
+          "country": "EC",
+          "lat": -1.8,
+          "lon": -78.2,
+          "fact_nl": "Land in Zuid-Amerika dat genoemd is naar de evenaar; de Spaanse veroveraars maakten Quito bijna 500 jaar geleden tot hoofdstad.",
+          "fact_tr": "Adını ekvatordan alan Güney Amerika ülkesi; İspanyol fatihler yaklaşık 500 yıl önce Kito'yu başkent yaptı."
+        },
+        {
+          "name_nl": "Shenzhen",
+          "name_tr": "Şenzen",
+          "type": "city",
+          "country": "CN",
+          "lat": 22.54,
+          "lon": 114.06,
+          "fact_nl": "Voorbeeldtekst in het boek: in 1974 een kleine stad, nu onderdeel van het snelst groeiende stedelijke gebied ter wereld aan de monding van de Parelrivier.",
+          "fact_tr": "Kitaptaki örnek metin: 1974'te küçük bir kasabaydı, şimdi İnci Nehri ağzında dünyanın en hızlı büyüyen kentsel bölgesinin parçası."
+        },
+        {
+          "name_nl": "Parelrivierdelta",
+          "name_tr": "İnci Nehri Deltası",
+          "type": "region",
+          "country": "CN",
+          "lat": 22.6,
+          "lon": 113.6,
+          "fact_nl": "Stedelijk gebied met meer dan 70 miljoen inwoners in Zuid-China.",
+          "fact_tr": "Güney Çin'de 70 milyondan fazla nüfuslu kentsel bölge."
+        },
+        {
+          "name_nl": "Tokio",
+          "name_tr": "Tokyo",
+          "type": "city",
+          "country": "JP",
+          "lat": 35.68,
+          "lon": 139.69,
+          "fact_nl": "In het voorbeeld genoemd als de grootste stad ter wereld en een wereldstad.",
+          "fact_tr": "Örnekte dünyanın en büyük şehri ve bir dünya kenti olarak geçer."
+        }
+      ],
+      "questions": [
+        {
+          "q_nl": "In welk land ligt Quito, de stad op de omslag van het boek?",
+          "q_tr": "Kitabın kapağındaki şehir Kito hangi ülkededir?",
+          "answer_nl": "Ecuador",
+          "answer_tr": "Ekvador",
+          "wrong_nl": [
+            "Peru",
+            "Colombia",
+            "Bolivia"
+          ],
+          "wrong_tr": [
+            "Peru",
+            "Kolombiya",
+            "Bolivya"
+          ],
+          "place": "Quito"
+        },
+        {
+          "q_nl": "Waarom is het in Quito meestal koel, terwijl de stad vlak bij de evenaar ligt?",
+          "q_tr": "Kito ekvatora çok yakın olduğu halde neden genellikle serindir?",
+          "answer_nl": "Door de ligging op 2850 meter hoogte",
+          "answer_tr": "2850 metre yükseklikte olduğu için",
+          "wrong_nl": [
+            "Door een koude zeestroming",
+            "Omdat het er altijd regent",
+            "Omdat het op het zuidelijk halfrond ligt"
+          ],
+          "wrong_tr": [
+            "Soğuk bir okyanus akıntısı yüzünden",
+            "Orada hep yağmur yağdığı için",
+            "Güney yarımkürede olduğu için"
+          ],
+          "place": "Quito"
+        },
+        {
+          "q_nl": "In welk gebergte ligt Quito?",
+          "q_tr": "Kito hangi sıradağlarda yer alır?",
+          "answer_nl": "Andes",
+          "answer_tr": "And Dağları",
+          "wrong_nl": [
+            "Rocky Mountains",
+            "Himalaya",
+            "Alpen"
+          ],
+          "wrong_tr": [
+            "Rocky Dağları",
+            "Himalayalar",
+            "Alpler"
+          ],
+          "place": "Andes"
+        },
+        {
+          "q_nl": "Hoe ver ligt Quito ongeveer van de evenaar?",
+          "q_tr": "Kito ekvatora yaklaşık ne kadar uzaklıktadır?",
+          "answer_nl": "20 kilometer",
+          "answer_tr": "20 kilometre",
+          "wrong_nl": [
+            "200 kilometer",
+            "700 kilometer",
+            "2000 kilometer"
+          ],
+          "wrong_tr": [
+            "200 kilometre",
+            "700 kilometre",
+            "2000 kilometre"
+          ],
+          "place": "Quito"
+        },
+        {
+          "q_nl": "Welke oude beschaving had in Quito een belangrijke stad?",
+          "q_tr": "Kito'da önemli bir şehri olan eski uygarlık hangisidir?",
+          "answer_nl": "De Inca's",
+          "answer_tr": "İnkalar",
+          "wrong_nl": [
+            "De Maya's",
+            "De Azteken",
+            "De Romeinen"
+          ],
+          "wrong_tr": [
+            "Mayalar",
+            "Aztekler",
+            "Romalılar"
+          ],
+          "place": "Quito"
+        },
+        {
+          "q_nl": "Aan de monding van welke rivier ligt het snelst groeiende stedelijke gebied ter wereld, met Shenzhen?",
+          "q_tr": "Şenzen'in de içinde olduğu dünyanın en hızlı büyüyen kentsel bölgesi hangi nehrin ağzındadır?",
+          "answer_nl": "Parelrivier",
+          "answer_tr": "İnci Nehri",
+          "wrong_nl": [
+            "Jangtsekiang",
+            "Mekong",
+            "Gele Rivier"
+          ],
+          "wrong_tr": [
+            "Yangtze",
+            "Mekong",
+            "Sarı Nehir"
+          ],
+          "place": "Shenzhen"
+        }
+      ]
+    },
+    {
+      "id": "h01",
+      "title_nl": "Wereldhandel in beweging",
+      "title_tr": "Hareket halindeki dünya ticareti",
+      "paragraphs": [
+        "Introductie",
+        "Vaardigheden: grafieken lezen en maken",
+        "1.1 Kantelt het economisch wereldbeeld?",
+        "1.2 Wereldhandel: van kolonialisme tot nu",
+        "1.3 Verschillen tussen rollen in de wereldhandel",
+        "Landenvergelijking: Verenigde Staten en Zuid-Afrika",
+        "1.4 Rol van Europa in de wereldhandel",
+        "1.5 Rol van Nederland in de wereldhandel",
+        "Keuzeopdrachten",
+        "In vogelvlucht",
+        "Samenvatting",
+        "Begrippen"
+      ],
+      "concepts": [
+        {
+          "paragraph": "vaardigheden",
+          "nl": "positief verband",
+          "def_nl": "Twee verschijnselen nemen allebei in min of meer gelijke mate toe of af.",
+          "tr": "pozitif ilişki",
+          "def_tr": "İki olgunun ikisi de aşağı yukarı aynı ölçüde artar veya azalır."
+        },
+        {
+          "paragraph": "vaardigheden",
+          "nl": "negatief verband",
+          "def_nl": "Het ene verschijnsel neemt toe terwijl het andere afneemt.",
+          "tr": "negatif ilişki",
+          "def_tr": "Bir olgu artarken diğeri azalır."
+        },
+        {
+          "paragraph": "1.1",
+          "nl": "globalisering",
+          "def_nl": "Proces waarbij gebieden over de hele wereld steeds meer met elkaar verbonden raken.",
+          "tr": "küreselleşme",
+          "def_tr": "Dünyadaki bölgelerin birbirine giderek daha fazla bağlandığı süreç."
+        },
+        {
+          "paragraph": "1.1",
+          "nl": "big tech-bedrijf",
+          "def_nl": "Groot bedrijf dat zijn geld verdient met het verkopen en verzamelen van informatie online (bijv. Apple, Google, Amazon, Microsoft).",
+          "tr": "büyük teknoloji şirketi",
+          "def_tr": "Parasını internette bilgi satarak ve toplayarak kazanan büyük şirket (örn. Apple, Google, Amazon, Microsoft)."
+        },
+        {
+          "paragraph": "1.1",
+          "nl": "multinational",
+          "def_nl": "Bedrijf dat in meerdere landen gevestigd is.",
+          "tr": "çok uluslu şirket",
+          "def_tr": "Birden fazla ülkede faaliyet gösteren şirket."
+        },
+        {
+          "paragraph": "1.1",
+          "nl": "lagelonenland",
+          "def_nl": "Land waar de lonen laag zijn, zodat bedrijven er goedkoop laten produceren (bijv. Bangladesh, Indonesië, India).",
+          "tr": "düşük ücretli ülke",
+          "def_tr": "Ücretlerin düşük olduğu, bu yüzden şirketlerin ucuza üretim yaptırdığı ülke (örn. Bangladeş, Endonezya, Hindistan)."
+        },
+        {
+          "paragraph": "1.1",
+          "nl": "productieketen",
+          "def_nl": "Alle stappen om een product te maken, vaak verdeeld over verschillende landen.",
+          "tr": "üretim zinciri",
+          "def_tr": "Bir ürünü yapmak için gereken tüm adımlar; çoğu zaman farklı ülkelere dağılmıştır."
+        },
+        {
+          "paragraph": "1.1",
+          "nl": "global shift",
+          "def_nl": "Het verschuiven van het economische zwaartepunt, vooral van het Westen naar Zuid-, Zuidoost- en Oost-Azië.",
+          "tr": "küresel kayma",
+          "def_tr": "Ekonomik ağırlık merkezinin, özellikle Batı'dan Güney, Güneydoğu ve Doğu Asya'ya kayması."
+        },
+        {
+          "paragraph": "1.1",
+          "nl": "handelsbelemmering",
+          "def_nl": "Regel in landen die handel voor buitenlandse bedrijven lastiger maakt, zoals extra belasting (invoerheffing).",
+          "tr": "ticaret engeli",
+          "def_tr": "Yabancı şirketlerin ticaretini zorlaştıran kural, örneğin ek vergi (gümrük vergisi)."
+        },
+        {
+          "paragraph": "1.1",
+          "nl": "multipolaire wereldeconomie",
+          "def_nl": "Economie waarbij op meerdere plaatsen in de wereld belangrijke economische kerngebieden liggen.",
+          "tr": "çok kutuplu dünya ekonomisi",
+          "def_tr": "Dünyanın birçok yerinde önemli ekonomik merkezlerin bulunduğu ekonomi."
+        },
+        {
+          "paragraph": "1.1",
+          "nl": "vrijhandel",
+          "def_nl": "Handel waarbij grenzen tussen gebieden en regels zo veel mogelijk worden weggenomen.",
+          "tr": "serbest ticaret",
+          "def_tr": "Bölgeler arasındaki sınırların ve kuralların olabildiğince kaldırıldığı ticaret."
+        },
+        {
+          "paragraph": "1.2",
+          "nl": "kolonie",
+          "def_nl": "Gebied overzee dat overheerst werd door een ander land en grondstoffen moest leveren aan de kolonisator.",
+          "tr": "sömürge",
+          "def_tr": "Başka bir ülkenin yönetimi altındaki ve sömürgeciye hammadde vermek zorunda olan denizaşırı bölge."
+        },
+        {
+          "paragraph": "1.2",
+          "nl": "handelskolonialisme",
+          "def_nl": "Periode (16e tot ver in de 20e eeuw) van het overheersen van gebieden overzee door West-Europese landen met als doel handel te drijven.",
+          "tr": "ticari sömürgecilik",
+          "def_tr": "Batı Avrupa ülkelerinin ticaret amacıyla denizaşırı bölgeleri yönettiği dönem (16. yüzyıldan 20. yüzyıla kadar)."
+        },
+        {
+          "paragraph": "1.2",
+          "nl": "dekolonisatie",
+          "def_nl": "Proces tussen 1945 en 1975 waarin kolonies onafhankelijk worden.",
+          "tr": "dekolonizasyon (sömürgelikten kurtulma)",
+          "def_tr": "1945-1975 arasında sömürgelerin bağımsızlığını kazandığı süreç."
+        },
+        {
+          "paragraph": "1.2",
+          "nl": "politieke spanning",
+          "def_nl": "Politieke onenigheid tussen landen die invloed kan hebben op wereldwijde handelsrelaties, zoals de chipoorlog tussen de VS en China.",
+          "tr": "siyasi gerginlik",
+          "def_tr": "Ülkeler arasında dünya ticaretini etkileyebilen siyasi anlaşmazlık; örneğin ABD ile Çin arasındaki çip savaşı."
+        },
+        {
+          "paragraph": "1.2",
+          "nl": "slowbalisering",
+          "def_nl": "Het vertragen van de globalisering, onder andere door politieke spanningen.",
+          "tr": "yavaşlayan küreselleşme",
+          "def_tr": "Küreselleşmenin, örneğin siyasi gerginlikler yüzünden yavaşlaması."
+        },
+        {
+          "paragraph": "1.3",
+          "nl": "exploitatiekolonie",
+          "def_nl": "Kolonie die door de kolonisator werd gebruikt als wingewest; de ontwikkeling van de kolonie kwam op de tweede plaats.",
+          "tr": "sömürü kolonisi",
+          "def_tr": "Sömürgecinin kazanç kaynağı olarak kullandığı koloni; koloninin gelişmesi ikinci planda kaldı."
+        },
+        {
+          "paragraph": "1.3",
+          "nl": "vestigingskolonie",
+          "def_nl": "Gebied waar kolonisten zich blijvend vestigden en het inrichtten naar voorbeeld van het moederland (bijv. VS, Canada, Australië, Nieuw-Zeeland).",
+          "tr": "yerleşim kolonisi",
+          "def_tr": "Sömürgecilerin kalıcı olarak yerleşip anavatanlarını örnek alarak düzenledikleri bölge (örn. ABD, Kanada, Avustralya, Yeni Zelanda)."
+        },
+        {
+          "paragraph": "1.3",
+          "nl": "politiek systeem",
+          "def_nl": "De wijze waarop een land wordt bestuurd, bijvoorbeeld democratie of dictatuur.",
+          "tr": "siyasi sistem",
+          "def_tr": "Bir ülkenin yönetilme biçimi; örneğin demokrasi veya diktatörlük."
+        },
+        {
+          "paragraph": "1.3",
+          "nl": "Gini-coëfficiënt",
+          "def_nl": "Getal tussen 0 en 1 dat aangeeft hoe ongelijk een land is; bij 0 is iedereen gelijk, bij 1 heeft één persoon alle welvaart.",
+          "tr": "Gini katsayısı",
+          "def_tr": "Bir ülkedeki eşitsizliği gösteren 0 ile 1 arası sayı; 0'da herkes eşittir, 1'de tüm refah tek bir kişidedir."
+        },
+        {
+          "paragraph": "1.3",
+          "nl": "Sustainable Development Goals (SDG's)",
+          "def_nl": "Zeventien duurzame ontwikkelingsdoelen van de VN voor welzijn, gelijke kansen en duurzaamheid.",
+          "tr": "Sürdürülebilir Kalkınma Amaçları (SKA)",
+          "def_tr": "BM'nin refah, fırsat eşitliği ve sürdürülebilirlik için belirlediği on yedi hedef."
+        },
+        {
+          "paragraph": "1.4",
+          "nl": "de-industrialisatie",
+          "def_nl": "Het verdwijnen van industrie uit een gebied, zoals mijnen en staalfabrieken in het Ruhrgebied.",
+          "tr": "sanayisizleşme",
+          "def_tr": "Bir bölgeden sanayinin kaybolması; örneğin Ruhr bölgesindeki madenler ve çelik fabrikaları."
+        },
+        {
+          "paragraph": "1.4",
+          "nl": "ESG",
+          "def_nl": "Environmental, Social & Governance: regels voor bedrijven over milieu, mens en bestuur.",
+          "tr": "ESG (çevresel, sosyal ve yönetişim)",
+          "def_tr": "Şirketler için çevre, insan ve yönetimle ilgili kurallar."
+        },
+        {
+          "paragraph": "1.5",
+          "nl": "afzetmarkt",
+          "def_nl": "Gebied waar goederen en/of diensten worden verkocht.",
+          "tr": "satış pazarı",
+          "def_tr": "Malların ve/veya hizmetlerin satıldığı bölge."
+        },
+        {
+          "paragraph": "1.5",
+          "nl": "brainport",
+          "def_nl": "Gebied dat een grote rol speelt in de kenniseconomie met veel hightechbedrijven, universiteiten en onderzoeksinstituten (bijv. Eindhoven).",
+          "tr": "beyin limanı (brainport)",
+          "def_tr": "Çok sayıda yüksek teknoloji şirketi, üniversite ve araştırma enstitüsüyle bilgi ekonomisinde büyük rol oynayan bölge (örn. Eindhoven)."
+        },
+        {
+          "paragraph": "1.5",
+          "nl": "mainport",
+          "def_nl": "Belangrijke haven of luchthaven voor internationale handel, zoals de haven van Rotterdam en Schiphol.",
+          "tr": "ana liman (mainport)",
+          "def_tr": "Uluslararası ticaret için önemli liman veya havalimanı; örneğin Rotterdam Limanı ve Schiphol."
+        },
+        {
+          "paragraph": "1.5",
+          "nl": "globaliseringsindex",
+          "def_nl": "Rangorde van landen naar hoe sterk ze op het buitenland gericht zijn; Nederland staat in de top 3.",
+          "tr": "küreselleşme endeksi",
+          "def_tr": "Ülkelerin dış dünyaya ne kadar bağlı olduklarına göre sıralanması; Hollanda ilk 3'tedir."
+        }
+      ],
+      "places": [
+        {
+          "name_nl": "Suezkanaal",
+          "name_tr": "Süveyş Kanalı",
+          "type": "other",
+          "country": "EG",
+          "lat": 30.6,
+          "lon": 32.34,
+          "fact_nl": "Belangrijke scheepvaartroute tussen Azië en Europa; in maart 2021 lag de Ever Given hier zes dagen vast.",
+          "fact_tr": "Asya ile Avrupa arasındaki önemli deniz yolu; Mart 2021'de Ever Given gemisi burada altı gün sıkışıp kaldı."
+        },
+        {
+          "name_nl": "Rode Zee",
+          "name_tr": "Kızıldeniz",
+          "type": "region",
+          "country": "YE",
+          "lat": 20.0,
+          "lon": 38.5,
+          "fact_nl": "Door aanvallen van Houthi-rebellen (2024) daalde het aantal containerschepen via deze route met meer dan 90 procent.",
+          "fact_tr": "Husi isyancılarının saldırıları yüzünden (2024) bu rotayı kullanan konteyner gemisi sayısı yüzde 90'dan fazla azaldı."
+        },
+        {
+          "name_nl": "Rotterdam",
+          "name_tr": "Rotterdam",
+          "type": "port",
+          "country": "NL",
+          "lat": 51.95,
+          "lon": 4.14,
+          "fact_nl": "Grootste haven van Europa en een mainport; containerschepen doen 27 dagen over de reis van Shanghai naar Rotterdam.",
+          "fact_tr": "Avrupa'nın en büyük limanı ve bir ana liman; konteyner gemileri Şanghay'dan Rotterdam'a 27 günde gelir."
+        },
+        {
+          "name_nl": "Shanghai",
+          "name_tr": "Şanghay",
+          "type": "port",
+          "country": "CN",
+          "lat": 31.23,
+          "lon": 121.47,
+          "fact_nl": "Grote Chinese havenstad; vertrekpunt van containerschepen met schoenen, kleding en speelgoed naar Rotterdam.",
+          "fact_tr": "Büyük Çin liman şehri; ayakkabı, giysi ve oyuncak taşıyan konteyner gemileri buradan Rotterdam'a gider."
+        },
+        {
+          "name_nl": "Schiphol",
+          "name_tr": "Schiphol",
+          "type": "other",
+          "country": "NL",
+          "lat": 52.31,
+          "lon": 4.76,
+          "fact_nl": "Luchthaven bij Amsterdam en net als de haven van Rotterdam een mainport.",
+          "fact_tr": "Amsterdam yakınındaki havalimanı; Rotterdam Limanı gibi bir ana limandır."
+        },
+        {
+          "name_nl": "Amsterdam",
+          "name_tr": "Amsterdam",
+          "type": "port",
+          "country": "NL",
+          "lat": 52.38,
+          "lon": 4.9,
+          "fact_nl": "De haven van Amsterdam is de vierde grootste haven van Europa (naar hoeveelheid handelswaar).",
+          "fact_tr": "Amsterdam Limanı, taşınan yük miktarına göre Avrupa'nın dördüncü büyük limanıdır."
+        },
+        {
+          "name_nl": "Eindhoven",
+          "name_tr": "Eindhoven",
+          "type": "city",
+          "country": "NL",
+          "lat": 51.44,
+          "lon": 5.48,
+          "fact_nl": "Brainport Eindhoven, 'slimste regio van de wereld', met ASML, DAF, Philips en de High Tech Campus; 40 miljoen mensen binnen 150 km.",
+          "fact_tr": "Brainport Eindhoven, 'dünyanın en akıllı bölgesi'; ASML, DAF, Philips ve High Tech Campus burada; 150 km içinde 40 milyon kişi yaşar."
+        },
+        {
+          "name_nl": "Veldhoven",
+          "name_tr": "Veldhoven",
+          "type": "city",
+          "country": "NL",
+          "lat": 51.42,
+          "lon": 5.4,
+          "fact_nl": "Hoofdkantoor van ASML, grootste producent van chipmachines ter wereld; 95 procent wordt geëxporteerd.",
+          "fact_tr": "Dünyanın en büyük çip makinesi üreticisi ASML'nin merkezi; üretimin yüzde 95'i ihraç edilir."
+        },
+        {
+          "name_nl": "Aalsmeer",
+          "name_tr": "Aalsmeer",
+          "type": "city",
+          "country": "NL",
+          "lat": 52.26,
+          "lon": 4.76,
+          "fact_nl": "Bloemenveiling; veel snijbloemen komen per vliegtuig uit Kenia.",
+          "fact_tr": "Çiçek mezatı; birçok kesme çiçek uçakla Kenya'dan gelir."
+        },
+        {
+          "name_nl": "Kenia",
+          "name_tr": "Kenya",
+          "type": "country",
+          "country": "KE",
+          "lat": -0.5,
+          "lon": 37.9,
+          "fact_nl": "Levert snijrozen (per vliegtuig naar Aalsmeer en Duitsland) en avocado's; ideaal klimaat voor bloementeelt.",
+          "fact_tr": "Kesme gül (uçakla Aalsmeer'e ve Almanya'ya) ve avokado sağlar; çiçek yetiştiriciliği için ideal iklimi vardır."
+        },
+        {
+          "name_nl": "Kazachstan",
+          "name_tr": "Kazakistan",
+          "type": "country",
+          "country": "KZ",
+          "lat": 48.0,
+          "lon": 67.0,
+          "fact_nl": "Levert katoen dat in Turkije tot garen wordt gesponnen, in India tot stof geweven en in Bangladesh tot spijkerbroek genaaid.",
+          "fact_tr": "Pamuğu Türkiye'de ipliğe, Hindistan'da kumaşa, Bangladeş'te kot pantolona dönüşür."
+        },
+        {
+          "name_nl": "Bangladesh",
+          "name_tr": "Bangladeş",
+          "type": "country",
+          "country": "BD",
+          "lat": 23.7,
+          "lon": 90.4,
+          "fact_nl": "Lagelonenland waar spijkerbroeken en kleding worden genaaid.",
+          "fact_tr": "Kot pantolon ve giysilerin dikildiği düşük ücretli ülke."
+        },
+        {
+          "name_nl": "China",
+          "name_tr": "Çin",
+          "type": "country",
+          "country": "CN",
+          "lat": 35.0,
+          "lon": 103.0,
+          "fact_nl": "Grote speler in de wereldhandel (Alibaba, Temu); Nieuwe Zijderoute; militaire aanwezigheid in de Zuid-Chinese Zee; chipoorlog met de VS.",
+          "fact_tr": "Dünya ticaretinde büyük oyuncu (Alibaba, Temu); Yeni İpek Yolu; Güney Çin Denizi'nde askeri varlık; ABD ile çip savaşı."
+        },
+        {
+          "name_nl": "Vietnam",
+          "name_tr": "Vietnam",
+          "type": "country",
+          "country": "VN",
+          "lat": 16.0,
+          "lon": 107.8,
+          "fact_nl": "Na 1986 open voor multinationals; export groeide van 5,15 miljard dollar (1995) naar 399 miljard dollar (2022), vooral elektronica.",
+          "fact_tr": "1986'dan sonra çok uluslu şirketlere açıldı; ihracatı 5,15 milyar dolardan (1995) 399 milyar dolara (2022) çıktı, çoğu elektronik."
+        },
+        {
+          "name_nl": "Zuid-Korea",
+          "name_tr": "Güney Kore",
+          "type": "country",
+          "country": "KR",
+          "lat": 36.5,
+          "lon": 127.9,
+          "fact_nl": "Centrumland met veel dienstensector; belangrijke Aziatische handelspartner en grote afnemer van ASML-chipmachines.",
+          "fact_tr": "Hizmet sektörü büyük bir merkez ülke; önemli Asya ticaret ortağı ve ASML çip makinelerinin büyük alıcısı."
+        },
+        {
+          "name_nl": "Taiwan",
+          "name_tr": "Tayvan",
+          "type": "country",
+          "country": "TW",
+          "lat": 23.7,
+          "lon": 121.0,
+          "fact_nl": "Belangrijke Aziatische handelspartner van Europa en grote afnemer van chipmachines.",
+          "fact_tr": "Avrupa'nın önemli Asya ticaret ortağı ve çip makinelerinin büyük alıcısı."
+        },
+        {
+          "name_nl": "Singapore",
+          "name_tr": "Singapur",
+          "type": "port",
+          "country": "SG",
+          "lat": 1.29,
+          "lon": 103.85,
+          "fact_nl": "Belangrijke Aziatische handelspartner en grote containerhaven.",
+          "fact_tr": "Önemli Asya ticaret ortağı ve büyük konteyner limanı."
+        },
+        {
+          "name_nl": "Zuid-Chinese Zee",
+          "name_tr": "Güney Çin Denizi",
+          "type": "region",
+          "country": "CN",
+          "lat": 12.0,
+          "lon": 114.0,
+          "fact_nl": "China versterkt hier zijn militaire aanwezigheid, wat tot politieke spanningen leidt.",
+          "fact_tr": "Çin burada askeri varlığını artırıyor; bu da siyasi gerginliklere yol açıyor."
+        },
+        {
+          "name_nl": "Xinjiang",
+          "name_tr": "Sincan",
+          "type": "region",
+          "country": "CN",
+          "lat": 41.5,
+          "lon": 85.5,
+          "fact_nl": "Provincie in China waar volgens de VN ernstige mensenrechtenschendingen tegen de Oeigoeren plaatsvinden.",
+          "fact_tr": "BM'ye göre Uygurlara karşı ciddi insan hakları ihlallerinin yaşandığı Çin eyaleti."
+        },
+        {
+          "name_nl": "Ndola",
+          "name_tr": "Ndola",
+          "type": "city",
+          "country": "ZM",
+          "lat": -12.97,
+          "lon": 28.64,
+          "fact_nl": "Stad in de koperregio van Zambia; het Levy Mwanawasa Stadion werd gebouwd met Chinese investeringen.",
+          "fact_tr": "Zambiya'nın bakır bölgesindeki şehir; Levy Mwanawasa Stadyumu Çin yatırımıyla yapıldı."
+        },
+        {
+          "name_nl": "Zwarte Zee",
+          "name_tr": "Karadeniz",
+          "type": "region",
+          "country": "UA",
+          "lat": 43.5,
+          "lon": 34.0,
+          "fact_nl": "Route voor de export van Oekraïens graan; Rusland trok zich in 2023 terug uit de graandeal.",
+          "fact_tr": "Ukrayna tahıl ihracatının yolu; Rusya 2023'te tahıl anlaşmasından çekildi."
+        },
+        {
+          "name_nl": "Oekraïne",
+          "name_tr": "Ukrayna",
+          "type": "country",
+          "country": "UA",
+          "lat": 49.0,
+          "lon": 32.0,
+          "fact_nl": "Een van 's werelds grootste exporteurs van graan; onderbreking van die export laat voedselprijzen stijgen.",
+          "fact_tr": "Dünyanın en büyük tahıl ihracatçılarından biri; ihracat kesilince gıda fiyatları yükselir."
+        },
+        {
+          "name_nl": "Niger",
+          "name_tr": "Nijer",
+          "type": "country",
+          "country": "NE",
+          "lat": 17.6,
+          "lon": 8.1,
+          "fact_nl": "Voormalige Franse kolonie (onafhankelijk in 1960); exporteert vooral onbewerkte grondstoffen; export groeide van 448 miljoen (1995) naar 3,24 miljard dollar (2022).",
+          "fact_tr": "Eski Fransız sömürgesi (1960'ta bağımsız); çoğunlukla işlenmemiş hammadde ihraç eder; ihracatı 448 milyondan (1995) 3,24 milyar dolara (2022) çıktı."
+        },
+        {
+          "name_nl": "Potosí",
+          "name_tr": "Potosí",
+          "type": "resource",
+          "country": "BO",
+          "lat": -19.58,
+          "lon": -65.75,
+          "fact_nl": "Zilvermijnen in de Spaanse koloniale tijd (handelskolonialisme in Zuid-Amerika).",
+          "fact_tr": "İspanyol sömürge döneminde gümüş madenleri (Güney Amerika'da ticari sömürgecilik)."
+        },
+        {
+          "name_nl": "Suriname",
+          "name_tr": "Surinam",
+          "type": "country",
+          "country": "SR",
+          "lat": 4.0,
+          "lon": -56.0,
+          "fact_nl": "Voormalige Nederlandse exploitatiekolonie; werd in 1975 onafhankelijk.",
+          "fact_tr": "Eski Hollanda sömürü kolonisi; 1975'te bağımsız oldu."
+        },
+        {
+          "name_nl": "Indonesië",
+          "name_tr": "Endonezya",
+          "type": "country",
+          "country": "ID",
+          "lat": -2.5,
+          "lon": 118.0,
+          "fact_nl": "Voormalige Nederlandse kolonie (VOC); nu lagelonenland waar kleding wordt gemaakt; sinds 2025 BRICS-lid.",
+          "fact_tr": "Eski Hollanda sömürgesi (VOC); şimdi giysilerin üretildiği düşük ücretli ülke; 2025'ten beri BRICS üyesi."
+        },
+        {
+          "name_nl": "Democratische Republiek Congo",
+          "name_tr": "Kongo Demokratik Cumhuriyeti",
+          "type": "country",
+          "country": "CD",
+          "lat": -2.9,
+          "lon": 23.6,
+          "fact_nl": "Voormalige exploitatiekolonie; export bestaat voor het grootste deel uit metalen (koper en kobalt).",
+          "fact_tr": "Eski sömürü kolonisi; ihracatının büyük kısmı metallerdir (bakır ve kobalt)."
+        },
+        {
+          "name_nl": "Verenigde Staten",
+          "name_tr": "Amerika Birleşik Devletleri",
+          "type": "country",
+          "country": "US",
+          "lat": 39.8,
+          "lon": -98.6,
+          "fact_nl": "Invloedrijkste land sinds de Tweede Wereldoorlog en grootste landbouwexporteur ter wereld; voormalige vestigingskolonie; Gini 0,41.",
+          "fact_tr": "İkinci Dünya Savaşı'ndan beri en etkili ülke ve dünyanın en büyük tarım ihracatçısı; eski yerleşim kolonisi; Gini 0,41."
+        },
+        {
+          "name_nl": "Zuid-Afrika",
+          "name_tr": "Güney Afrika",
+          "type": "country",
+          "country": "ZA",
+          "lat": -29.0,
+          "lon": 24.0,
+          "fact_nl": "Concurrent van de VS in druiventeelt en wijnexport; enig land met drie hoofdsteden; lid van BRICS.",
+          "fact_tr": "Üzüm ve şarap ihracatında ABD'nin rakibi; üç başkenti olan tek ülke; BRICS üyesi."
+        },
+        {
+          "name_nl": "Pretoria",
+          "name_tr": "Pretoria",
+          "type": "city",
+          "country": "ZA",
+          "lat": -25.75,
+          "lon": 28.19,
+          "fact_nl": "Een van de drie hoofdsteden van Zuid-Afrika (regering).",
+          "fact_tr": "Güney Afrika'nın üç başkentinden biri (hükümet)."
+        },
+        {
+          "name_nl": "Kaapstad",
+          "name_tr": "Cape Town",
+          "type": "city",
+          "country": "ZA",
+          "lat": -33.92,
+          "lon": 18.42,
+          "fact_nl": "Hoofdstad aan de kust (parlement) van Zuid-Afrika.",
+          "fact_tr": "Güney Afrika'nın kıyıdaki başkenti (parlamento)."
+        },
+        {
+          "name_nl": "Bloemfontein",
+          "name_tr": "Bloemfontein",
+          "type": "city",
+          "country": "ZA",
+          "lat": -29.12,
+          "lon": 26.21,
+          "fact_nl": "Hoofdstad in het binnenland (rechtspraak) van Zuid-Afrika.",
+          "fact_tr": "Güney Afrika'nın iç kesimdeki başkenti (yargı)."
+        },
+        {
+          "name_nl": "Brazilië",
+          "name_tr": "Brezilya",
+          "type": "country",
+          "country": "BR",
+          "lat": -10.0,
+          "lon": -52.0,
+          "fact_nl": "Voormalige exploitatiekolonie van Portugal; hoge sociale ongelijkheid (Gini 0,52); BRICS-lid van het eerste uur.",
+          "fact_tr": "Portekiz'in eski sömürü kolonisi; yüksek sosyal eşitsizlik (Gini 0,52); BRICS'in kurucu üyesi."
+        },
+        {
+          "name_nl": "Zweden",
+          "name_tr": "İsveç",
+          "type": "country",
+          "country": "SE",
+          "lat": 62.0,
+          "lon": 15.0,
+          "fact_nl": "Vergelijkbaar bbp per hoofd als de VS, maar veel kleinere ongelijkheid (Gini 0,30).",
+          "fact_tr": "Kişi başı GSYH'si ABD'ye benzer ama eşitsizlik çok daha düşük (Gini 0,30)."
+        },
+        {
+          "name_nl": "Slowakije",
+          "name_tr": "Slovakya",
+          "type": "country",
+          "country": "SK",
+          "lat": 48.7,
+          "lon": 19.7,
+          "fact_nl": "Land met zeer lage sociale ongelijkheid (Gini 0,24).",
+          "fact_tr": "Sosyal eşitsizliği çok düşük ülke (Gini 0,24)."
+        },
+        {
+          "name_nl": "Qatar",
+          "name_tr": "Katar",
+          "type": "country",
+          "country": "QA",
+          "lat": 25.3,
+          "lon": 51.2,
+          "fact_nl": "Oliestaat; organiseerde het WK voetbal 2022; F1-race vanaf 2023; hoofdsponsor EK 2024 ('Visit Qatar').",
+          "fact_tr": "Petrol devleti; 2022 Dünya Kupası'na ev sahipliği yaptı; 2023'ten beri F1 yarışı; EURO 2024'ün ana sponsoru ('Visit Qatar')."
+        },
+        {
+          "name_nl": "Saudi-Arabië",
+          "name_tr": "Suudi Arabistan",
+          "type": "country",
+          "country": "SA",
+          "lat": 24.0,
+          "lon": 45.0,
+          "fact_nl": "Oliestaat die investeert in sport: F1, Formule E en een voetbalcompetitie met steeds meer Europese spelers.",
+          "fact_tr": "Spora yatırım yapan petrol devleti: F1, Formula E ve giderek daha fazla Avrupalı oyuncunun oynadığı futbol ligi."
+        },
+        {
+          "name_nl": "Brussel",
+          "name_tr": "Brüksel",
+          "type": "city",
+          "country": "BE",
+          "lat": 50.85,
+          "lon": 4.35,
+          "fact_nl": "Zetel van de EU-instellingen; in 2023 protesteerden boeren hier tegen stikstofmaatregelen.",
+          "fact_tr": "AB kurumlarının merkezi; 2023'te çiftçiler burada azot önlemlerini protesto etti."
+        },
+        {
+          "name_nl": "Ruhrgebied",
+          "name_tr": "Ruhr Bölgesi",
+          "type": "region",
+          "country": "DE",
+          "lat": 51.5,
+          "lon": 7.2,
+          "fact_nl": "Oud industriegebied met steenkool en staal; voorbeeld van de-industrialisatie na 1965.",
+          "fact_tr": "Kömür ve çelikle bilinen eski sanayi bölgesi; 1965'ten sonra sanayisizleşme örneği."
+        },
+        {
+          "name_nl": "Tsjechië",
+          "name_tr": "Çekya",
+          "type": "country",
+          "country": "CZ",
+          "lat": 49.8,
+          "lon": 15.5,
+          "fact_nl": "Oost-Europees groeiland met auto-industrie (Skoda, Toyota, Hyundai); fabrieken verplaatst vanuit Duitsland.",
+          "fact_tr": "Otomotiv sanayisi olan büyüyen Doğu Avrupa ülkesi (Skoda, Toyota, Hyundai); fabrikalar Almanya'dan taşındı."
+        },
+        {
+          "name_nl": "Mladá Boleslav",
+          "name_tr": "Mladá Boleslav",
+          "type": "city",
+          "country": "CZ",
+          "lat": 50.41,
+          "lon": 14.9,
+          "fact_nl": "Plaats van de Skoda-autofabriek (onderdeel van Volkswagen Group).",
+          "fact_tr": "Skoda otomobil fabrikasının bulunduğu yer (Volkswagen Grubu)."
+        },
+        {
+          "name_nl": "Duitsland",
+          "name_tr": "Almanya",
+          "type": "country",
+          "country": "DE",
+          "lat": 51.2,
+          "lon": 10.4,
+          "fact_nl": "Grootste exportpartner van Nederland; importeert snijrozen uit Nederland, Kenia en Zambia.",
+          "fact_tr": "Hollanda'nın en büyük ihracat ortağı; Hollanda, Kenya ve Zambiya'dan kesme gül ithal eder."
+        }
+      ],
+      "questions": [
+        {
+          "q_nl": "In welk kanaal lag het containerschip de Ever Given in maart 2021 zes dagen vast?",
+          "q_tr": "Konteyner gemisi Ever Given Mart 2021'de hangi kanalda altı gün sıkışıp kaldı?",
+          "answer_nl": "Suezkanaal",
+          "answer_tr": "Süveyş Kanalı",
+          "wrong_nl": [
+            "Panamakanaal",
+            "Kielkanaal",
+            "Noordzeekanaal"
+          ],
+          "wrong_tr": [
+            "Panama Kanalı",
+            "Kiel Kanalı",
+            "Kuzey Denizi Kanalı"
+          ],
+          "place": "Suezkanaal"
+        },
+        {
+          "q_nl": "Welke haven is de grootste haven van Europa?",
+          "q_tr": "Avrupa'nın en büyük limanı hangisidir?",
+          "answer_nl": "Rotterdam",
+          "answer_tr": "Rotterdam",
+          "wrong_nl": [
+            "Antwerpen",
+            "Hamburg",
+            "Amsterdam"
+          ],
+          "wrong_tr": [
+            "Anvers",
+            "Hamburg",
+            "Amsterdam"
+          ],
+          "place": "Rotterdam"
+        },
+        {
+          "q_nl": "In welke regio ligt brainport, met bedrijven als ASML, DAF en Philips?",
+          "q_tr": "ASML, DAF ve Philips gibi şirketlerin olduğu brainport hangi bölgededir?",
+          "answer_nl": "Eindhoven",
+          "answer_tr": "Eindhoven",
+          "wrong_nl": [
+            "Delft",
+            "Groningen",
+            "Enschede"
+          ],
+          "wrong_tr": [
+            "Delft",
+            "Groningen",
+            "Enschede"
+          ],
+          "place": "Eindhoven"
+        },
+        {
+          "q_nl": "Uit welk Afrikaans land komen veel snijbloemen per vliegtuig naar de veiling van Aalsmeer?",
+          "q_tr": "Aalsmeer çiçek mezatına uçakla gelen kesme çiçeklerin çoğu hangi Afrika ülkesinden gelir?",
+          "answer_nl": "Kenia",
+          "answer_tr": "Kenya",
+          "wrong_nl": [
+            "Egypte",
+            "Marokko",
+            "Nigeria"
+          ],
+          "wrong_tr": [
+            "Mısır",
+            "Fas",
+            "Nijerya"
+          ],
+          "place": "Kenia"
+        },
+        {
+          "q_nl": "Welk land werd pas vanaf 1986 opengesteld voor multinationals en zag zijn export stijgen tot 399 miljard dollar in 2022?",
+          "q_tr": "Hangi ülke ancak 1986'dan sonra çok uluslu şirketlere açıldı ve ihracatı 2022'de 399 milyar dolara çıktı?",
+          "answer_nl": "Vietnam",
+          "answer_tr": "Vietnam",
+          "wrong_nl": [
+            "Thailand",
+            "Cambodja",
+            "Myanmar"
+          ],
+          "wrong_tr": [
+            "Tayland",
+            "Kamboçya",
+            "Myanmar"
+          ],
+          "place": "Vietnam"
+        },
+        {
+          "q_nl": "Welk land was de kolonisator van Niger (onafhankelijk in 1960)?",
+          "q_tr": "Nijer'in (1960'ta bağımsız) sömürgecisi hangi ülkeydi?",
+          "answer_nl": "Frankrijk",
+          "answer_tr": "Fransa",
+          "wrong_nl": [
+            "Verenigd Koninkrijk",
+            "Portugal",
+            "België"
+          ],
+          "wrong_tr": [
+            "Birleşik Krallık",
+            "Portekiz",
+            "Belçika"
+          ],
+          "place": "Niger"
+        },
+        {
+          "q_nl": "Welk land is een voorbeeld van een vroegere vestigingskolonie?",
+          "q_tr": "Hangi ülke eski bir yerleşim kolonisine örnektir?",
+          "answer_nl": "Australië",
+          "answer_tr": "Avustralya",
+          "wrong_nl": [
+            "Democratische Republiek Congo",
+            "Suriname",
+            "Indonesië"
+          ],
+          "wrong_tr": [
+            "Kongo Demokratik Cumhuriyeti",
+            "Surinam",
+            "Endonezya"
+          ],
+          "place": "Verenigde Staten"
+        },
+        {
+          "q_nl": "Welk land heeft drie hoofdsteden?",
+          "q_tr": "Hangi ülkenin üç başkenti vardır?",
+          "answer_nl": "Zuid-Afrika",
+          "answer_tr": "Güney Afrika",
+          "wrong_nl": [
+            "Nigeria",
+            "Egypte",
+            "Australië"
+          ],
+          "wrong_tr": [
+            "Nijerya",
+            "Mısır",
+            "Avustralya"
+          ],
+          "place": "Zuid-Afrika"
+        },
+        {
+          "q_nl": "Welk land hoorde NIET bij de eerste vijf BRICS-landen?",
+          "q_tr": "Hangi ülke BRICS'in ilk beş üyesinden DEĞİLDİ?",
+          "answer_nl": "Egypte",
+          "answer_tr": "Mısır",
+          "wrong_nl": [
+            "Brazilië",
+            "India",
+            "Zuid-Afrika"
+          ],
+          "wrong_tr": [
+            "Brezilya",
+            "Hindistan",
+            "Güney Afrika"
+          ]
+        },
+        {
+          "q_nl": "Welk Duits gebied is een bekend voorbeeld van de-industrialisatie (steenkool en staal)?",
+          "q_tr": "Hangi Alman bölgesi sanayisizleşmenin (kömür ve çelik) bilinen bir örneğidir?",
+          "answer_nl": "Ruhrgebied",
+          "answer_tr": "Ruhr Bölgesi",
+          "wrong_nl": [
+            "Beieren",
+            "Zwarte Woud",
+            "Sleeswijk-Holstein"
+          ],
+          "wrong_tr": [
+            "Bavyera",
+            "Kara Orman",
+            "Schleswig-Holstein"
+          ],
+          "place": "Ruhrgebied"
+        },
+        {
+          "q_nl": "Naar welk Oost-Europees land verhuisden autofabrieken zoals Skoda vanuit Duitsland?",
+          "q_tr": "Skoda gibi otomobil fabrikaları Almanya'dan hangi Doğu Avrupa ülkesine taşındı?",
+          "answer_nl": "Tsjechië",
+          "answer_tr": "Çekya",
+          "wrong_nl": [
+            "Noorwegen",
+            "Portugal",
+            "Ierland"
+          ],
+          "wrong_tr": [
+            "Norveç",
+            "Portekiz",
+            "İrlanda"
+          ],
+          "place": "Tsjechië"
+        },
+        {
+          "q_nl": "Welk land uit de tabel heeft de grootste sociale ongelijkheid (hoogste Gini-coëfficiënt)?",
+          "q_tr": "Tablodaki hangi ülkede sosyal eşitsizlik en büyüktür (en yüksek Gini katsayısı)?",
+          "answer_nl": "Brazilië (0,52)",
+          "answer_tr": "Brezilya (0,52)",
+          "wrong_nl": [
+            "Nederland (0,26)",
+            "Zweden (0,30)",
+            "Slowakije (0,24)"
+          ],
+          "wrong_tr": [
+            "Hollanda (0,26)",
+            "İsveç (0,30)",
+            "Slovakya (0,24)"
+          ],
+          "place": "Brazilië"
+        },
+        {
+          "q_nl": "Over welke zee exporteert Oekraïne zijn graan?",
+          "q_tr": "Ukrayna tahılını hangi deniz üzerinden ihraç eder?",
+          "answer_nl": "Zwarte Zee",
+          "answer_tr": "Karadeniz",
+          "wrong_nl": [
+            "Oostzee",
+            "Kaspische Zee",
+            "Rode Zee"
+          ],
+          "wrong_tr": [
+            "Baltık Denizi",
+            "Hazar Denizi",
+            "Kızıldeniz"
+          ],
+          "place": "Zwarte Zee"
+        }
+      ]
+    },
+    {
+      "id": "h02",
+      "title_nl": "Schatkist aarde?",
+      "title_tr": "Hazine sandığı dünya mı?",
+      "paragraphs": [
+        "Introductie",
+        "Vaardigheden: dwarsdoorsnedes lezen en gesteenten determineren",
+        "2.1 De geschiedenis van de aarde",
+        "2.2 Het dagboek van de aarde",
+        "2.3 Het gebruik van delfstoffen",
+        "Landenvergelijking: Suriname en Nigeria",
+        "2.4 Delfstoffen in Europa",
+        "2.5 Delfstoffen in Nederland",
+        "Keuzeopdrachten",
+        "In vogelvlucht",
+        "Samenvatting",
+        "Begrippen"
+      ],
+      "concepts": [
+        {
+          "paragraph": "vaardigheden",
+          "nl": "dwarsdoorsnede",
+          "def_nl": "Tekening van de ondergrond alsof je er verticaal doorheen snijdt; laat de grondlagen en hun diepte zien.",
+          "tr": "enine kesit",
+          "def_tr": "Yeraltının dikey olarak kesilmiş gibi çizimi; toprak katmanlarını ve derinliklerini gösterir."
+        },
+        {
+          "paragraph": "vaardigheden",
+          "nl": "sediment",
+          "def_nl": "Losse afzetting van grind, zand of klei.",
+          "tr": "tortu (sediman)",
+          "def_tr": "Çakıl, kum veya kilden oluşan gevşek birikinti."
+        },
+        {
+          "paragraph": "2.1",
+          "nl": "geologische tijdschaal",
+          "def_nl": "Indeling van de geschiedenis van de aarde in tijdperken en perioden, op basis van wat er leefde.",
+          "tr": "jeolojik zaman ölçeği",
+          "def_tr": "Dünya tarihinin, o dönemde yaşayan canlılara göre çağlara ve dönemlere bölünmesi."
+        },
+        {
+          "paragraph": "2.1",
+          "nl": "Precambrium",
+          "def_nl": "Tijdperk van 4600 tot 540 miljoen jaar geleden (oudste tijdperk), waarin het eerste leven als bacteriën ontstond.",
+          "tr": "Prekambriyen",
+          "def_tr": "4600-540 milyon yıl önceki en eski çağ; ilk yaşam bakteriler olarak ortaya çıktı."
+        },
+        {
+          "paragraph": "2.1",
+          "nl": "Paleozoïcum",
+          "def_nl": "Tijdperk van 540 tot 250 miljoen jaar geleden, waarin veel zeeleven ontstond en het supercontinent Pangea werd gevormd.",
+          "tr": "Paleozoyik",
+          "def_tr": "540-250 milyon yıl önceki çağ; çok sayıda deniz canlısı ortaya çıktı ve süper kıta Pangea oluştu."
+        },
+        {
+          "paragraph": "2.1",
+          "nl": "Mesozoïcum",
+          "def_nl": "Tijdperk van 250 tot 66 miljoen jaar geleden, waarin veel leven op land en zee ontstond (dinosauriërs) en Pangea uit elkaar viel.",
+          "tr": "Mezozoyik",
+          "def_tr": "250-66 milyon yıl önceki çağ; karada ve denizde çok canlı ortaya çıktı (dinozorlar) ve Pangea parçalandı."
+        },
+        {
+          "paragraph": "2.1",
+          "nl": "Kenozoïcum",
+          "def_nl": "Tijdperk van 66 miljoen jaar geleden tot nu, waarin veel zoogdieren ontstonden, waaronder de mens.",
+          "tr": "Senozoyik",
+          "def_tr": "66 milyon yıl öncesinden bugüne uzanan çağ; insan dahil birçok memeli ortaya çıktı."
+        },
+        {
+          "paragraph": "2.1",
+          "nl": "Pangea",
+          "def_nl": "Supercontinent uit het Paleozoïcum waarin al het land aan elkaar vastzat.",
+          "tr": "Pangea",
+          "def_tr": "Paleozoyik'te tüm karaların birleşik olduğu süper kıta."
+        },
+        {
+          "paragraph": "2.1",
+          "nl": "massa-extinctie",
+          "def_nl": "Fase waarin meer dan 75 procent van de planten en dieren uitsterft; tot nu toe vijf keer gebeurd.",
+          "tr": "kitlesel yok oluş",
+          "def_tr": "Bitki ve hayvanların yüzde 75'inden fazlasının yok olduğu dönem; şimdiye kadar beş kez yaşandı."
+        },
+        {
+          "paragraph": "2.1",
+          "nl": "Antropoceen",
+          "def_nl": "Voorgestelde nieuwe periode sinds de industriële revolutie (1850) waarin de mens de aarde sterk beïnvloedt.",
+          "tr": "Antroposen",
+          "def_tr": "Sanayi devriminden (1850) beri insanın dünyayı güçlü biçimde etkilediği önerilen yeni dönem."
+        },
+        {
+          "paragraph": "2.2",
+          "nl": "stollingsgesteente",
+          "def_nl": "Gesteente ontstaan door het stollen van magma of lava, zoals graniet en basalt.",
+          "tr": "magmatik kayaç (püskürük kayaç)",
+          "def_tr": "Magma veya lavın katılaşmasıyla oluşan kayaç; örneğin granit ve bazalt."
+        },
+        {
+          "paragraph": "2.2",
+          "nl": "sedimentgesteente",
+          "def_nl": "Gesteente ontstaan doordat lagen grind, zand, klei of skeletjes onder druk hard worden, zoals zandsteen en kalksteen.",
+          "tr": "tortul kayaç",
+          "def_tr": "Çakıl, kum, kil veya iskelet katmanlarının basınçla sertleşmesiyle oluşan kayaç; örneğin kumtaşı ve kireçtaşı."
+        },
+        {
+          "paragraph": "2.2",
+          "nl": "metamorf gesteente",
+          "def_nl": "Gesteente dat dieper in de aarde komt te liggen en door hoge druk en warmte verandert, zoals marmer (uit kalksteen) en leisteen (uit kleisteen).",
+          "tr": "başkalaşım kayacı (metamorfik kayaç)",
+          "def_tr": "Yerin derinliklerine inip yüksek basınç ve ısıyla değişen kayaç; örneğin mermer (kireçtaşından) ve arduvaz (kiltaşından)."
+        },
+        {
+          "paragraph": "2.2",
+          "nl": "fossiel",
+          "def_nl": "Versteende afdruk of overblijfsel van een dier of plant.",
+          "tr": "fosil",
+          "def_tr": "Bir hayvanın veya bitkinin taşlaşmış izi ya da kalıntısı."
+        },
+        {
+          "paragraph": "2.2",
+          "nl": "relatieve ouderdom",
+          "def_nl": "Het bepalen van ouderdom door gesteentelagen te vergelijken; meestal geldt: hoe dieper, hoe ouder.",
+          "tr": "göreli yaş",
+          "def_tr": "Kayaç katmanlarını karşılaştırarak yaş belirleme; genellikle ne kadar derinse o kadar eskidir."
+        },
+        {
+          "paragraph": "2.2",
+          "nl": "absolute ouderdom",
+          "def_nl": "Het bepalen van de exacte ouderdom in jaren door radioactief materiaal (zoals uranium) in gesteente te meten.",
+          "tr": "mutlak yaş",
+          "def_tr": "Kayaçtaki radyoaktif maddeyi (örn. uranyum) ölçerek yaşı yıl olarak tam belirleme."
+        },
+        {
+          "paragraph": "2.3",
+          "nl": "delfstoffen",
+          "def_nl": "Gesteenten en mineralen die uit de aarde worden gehaald voor menselijke doeleinden, zoals metalen, fossiele brandstoffen, zout, grind en kalk.",
+          "tr": "madenler (yeraltı kaynakları)",
+          "def_tr": "İnsan kullanımı için yerden çıkarılan kayaç ve mineraller; örneğin metaller, fosil yakıtlar, tuz, çakıl ve kireç."
+        },
+        {
+          "paragraph": "2.3",
+          "nl": "erts",
+          "def_nl": "Gesteente waarin zoveel metaal zit dat winning economisch rendabel is, zoals ijzererts.",
+          "tr": "cevher",
+          "def_tr": "İçindeki metal miktarı çıkarmayı ekonomik olarak kârlı kılan kayaç; örneğin demir cevheri."
+        },
+        {
+          "paragraph": "2.3",
+          "nl": "dagbouw",
+          "def_nl": "Vorm van mijnbouw aan het aardoppervlak.",
+          "tr": "açık ocak madenciliği",
+          "def_tr": "Yeryüzünde yapılan madencilik türü."
+        },
+        {
+          "paragraph": "2.3",
+          "nl": "schachtbouw",
+          "def_nl": "Vorm van mijnbouw in ondergrondse mijnen.",
+          "tr": "kuyu (yeraltı) madenciliği",
+          "def_tr": "Yeraltındaki madenlerde yapılan madencilik türü."
+        },
+        {
+          "paragraph": "2.3",
+          "nl": "fossiele brandstoffen",
+          "def_nl": "Heel oude delfstoffen die als brandstof worden gebruikt: steenkool, aardolie en aardgas.",
+          "tr": "fosil yakıtlar",
+          "def_tr": "Yakıt olarak kullanılan çok eski madenler: taşkömürü, petrol ve doğalgaz."
+        },
+        {
+          "paragraph": "2.3",
+          "nl": "inkolingsproces",
+          "def_nl": "Proces waarbij veen onder druk verandert in bruinkool en later in steenkool; begon in het Carboon.",
+          "tr": "kömürleşme süreci",
+          "def_tr": "Turbanın basınç altında linyite, sonra taşkömürüne dönüşmesi; Karbonifer'de başladı."
+        },
+        {
+          "paragraph": "2.4",
+          "nl": "technisch winbaar",
+          "def_nl": "Een delfstof kan met de huidige techniek naar boven worden gehaald.",
+          "tr": "teknik olarak çıkarılabilir",
+          "def_tr": "Bir madenin bugünkü teknikle çıkarılabilmesi."
+        },
+        {
+          "paragraph": "2.4",
+          "nl": "economisch winbaar",
+          "def_nl": "Het winnen van een delfstof kost niet meer dan het oplevert.",
+          "tr": "ekonomik olarak çıkarılabilir",
+          "def_tr": "Bir madeni çıkarmanın maliyetinin getirisinden fazla olmaması."
+        },
+        {
+          "paragraph": "2.5",
+          "nl": "moedergesteente",
+          "def_nl": "Gesteente waarin door hitte en druk aardolie of aardgas is ontstaan (bijv. steenkool uit het Carboon voor Gronings gas).",
+          "tr": "ana kaya (kaynak kaya)",
+          "def_tr": "Isı ve basınçla petrol veya doğalgazın oluştuğu kayaç (örn. Groningen gazı için Karbonifer taşkömürü)."
+        },
+        {
+          "paragraph": "2.5",
+          "nl": "reservoirgesteente",
+          "def_nl": "Poreus gesteente waarin aardgas of aardolie wordt vastgehouden en dat wordt afgedekt door een ondoorlatende laag (bijv. zandsteen uit het Perm onder steenzout).",
+          "tr": "rezervuar kaya",
+          "def_tr": "Doğalgaz veya petrolü tutan, üstü geçirimsiz bir katmanla örtülü gözenekli kayaç (örn. kaya tuzunun altındaki Permiyen kumtaşı)."
+        },
+        {
+          "paragraph": "landenvergelijking",
+          "nl": "waterschaarste",
+          "def_nl": "Tekort aan (schoon) water, bijvoorbeeld door vervuiling met kwik bij goudwinning.",
+          "tr": "su kıtlığı",
+          "def_tr": "(Temiz) su yetersizliği; örneğin altın madenciliğinde cıva kirliliği yüzünden."
+        }
+      ],
+      "places": [
+        {
+          "name_nl": "Lithiumdriehoek",
+          "name_tr": "Lityum üçgeni",
+          "type": "resource",
+          "country": "AR",
+          "lat": -23.5,
+          "lon": -67.0,
+          "fact_nl": "Grensgebied van Bolivia, Argentinië en Chili in de Andes; meer dan 20 procent van de lithiumvoorraad ter wereld ligt onder de zoutvlaktes.",
+          "fact_tr": "And Dağları'nda Bolivya, Arjantin ve Şili sınır bölgesi; dünya lityum rezervinin yüzde 20'sinden fazlası tuz düzlüklerinin altında."
+        },
+        {
+          "name_nl": "Jujuy",
+          "name_tr": "Jujuy",
+          "type": "region",
+          "country": "AR",
+          "lat": -23.3,
+          "lon": -65.8,
+          "fact_nl": "Gebied in Argentinië in de lithiumdriehoek; de oorspronkelijke bevolking protesteert omdat lithiumwinning veel water kost ('No al litio, sí al agua').",
+          "fact_tr": "Arjantin'de lityum üçgenindeki bölge; lityum çıkarmak çok su harcadığı için yerli halk protesto ediyor ('Lityuma hayır, suya evet')."
+        },
+        {
+          "name_nl": "Salinas Grandes",
+          "name_tr": "Salinas Grandes",
+          "type": "resource",
+          "country": "AR",
+          "lat": -23.6,
+          "lon": -65.9,
+          "fact_nl": "Zoutvlakte in Argentinië (omslagfoto hoofdstuk 2) waar lithium en zout worden gewonnen.",
+          "fact_tr": "Arjantin'de lityum ve tuz çıkarılan tuz düzlüğü (2. bölüm kapak fotoğrafı)."
+        },
+        {
+          "name_nl": "Borneo",
+          "name_tr": "Borneo",
+          "type": "region",
+          "country": "ID",
+          "lat": 0.5,
+          "lon": 114.0,
+          "fact_nl": "Aziatisch eiland; in 1950 was meer dan 75 procent bebost, nu veel minder door kap voor palmolie- en rubberplantages.",
+          "fact_tr": "Asya'da ada; 1950'de yüzde 75'ten fazlası ormandı, şimdi palmiye yağı ve kauçuk tarlaları için kesildiğinden çok daha az."
+        },
+        {
+          "name_nl": "Yucatán",
+          "name_tr": "Yucatán",
+          "type": "region",
+          "country": "MX",
+          "lat": 20.7,
+          "lon": -89.0,
+          "fact_nl": "Schiereiland in Mexico met cenotes, ontstaan door de meteorietinslag van 66 miljoen jaar geleden die het einde van het Mesozoïcum (Krijt) inluidde.",
+          "fact_tr": "Meksika'da yarımada; Mezozoyik'in (Kretase) sonunu getiren 66 milyon yıl önceki göktaşı çarpmasıyla oluşan cenote'ler burada."
+        },
+        {
+          "name_nl": "Pulau Weh",
+          "name_tr": "Weh Adası",
+          "type": "other",
+          "country": "ID",
+          "lat": 5.85,
+          "lon": 95.3,
+          "fact_nl": "Vulkanisch eiland, niet groter dan Texel, dat vroeger vastzat aan Sumatra; al zo'n twee miljoen jaar geen uitbarsting.",
+          "fact_tr": "Texel'den büyük olmayan volkanik ada; eskiden Sumatra'ya bağlıydı; yaklaşık iki milyon yıldır patlama olmadı."
+        },
+        {
+          "name_nl": "Tafelberg",
+          "name_tr": "Masa Dağı",
+          "type": "other",
+          "country": "ZA",
+          "lat": -33.96,
+          "lon": 18.4,
+          "fact_nl": "Berg bij Kaapstad waar de lagen sedimentgesteente goed te zien zijn.",
+          "fact_tr": "Cape Town yakınında, tortul kayaç katmanlarının açıkça görüldüğü dağ."
+        },
+        {
+          "name_nl": "Eifel (basaltzuilen)",
+          "name_tr": "Eifel (bazalt sütunları)",
+          "type": "region",
+          "country": "DE",
+          "lat": 50.3,
+          "lon": 6.9,
+          "fact_nl": "Basaltzuilen in Duitsland, vlak over de grens, bewijzen dat hier ooit vulkanen waren (stollingsgesteente).",
+          "fact_tr": "Sınırın hemen ötesinde, Almanya'daki bazalt sütunları burada bir zamanlar yanardağlar olduğunu kanıtlar (magmatik kayaç)."
+        },
+        {
+          "name_nl": "Niger (uranium)",
+          "name_tr": "Nijer (uranyum)",
+          "type": "resource",
+          "country": "NE",
+          "lat": 18.7,
+          "lon": 7.4,
+          "fact_nl": "Nieuwe vondsten van uranium; met de verhouding uranium/lood wordt de ouderdom gemeten (halveringstijd 700 miljoen jaar); winning vervuilt water en gewassen.",
+          "fact_tr": "Yeni uranyum buluntuları; uranyum/kurşun oranıyla yaş ölçülür (yarı ömür 700 milyon yıl); madencilik suyu ve ekinleri kirletir."
+        },
+        {
+          "name_nl": "Democratische Republiek Congo",
+          "name_tr": "Kongo Demokratik Cumhuriyeti",
+          "type": "resource",
+          "country": "CD",
+          "lat": -10.7,
+          "lon": 25.5,
+          "fact_nl": "Mijnen voor koper en kobalt (Katanga), metalen voor elektronica en accu's.",
+          "fact_tr": "Elektronik ve bataryalar için bakır ve kobalt madenleri (Katanga)."
+        },
+        {
+          "name_nl": "Zuid-Limburg",
+          "name_tr": "Güney Limburg",
+          "type": "region",
+          "country": "NL",
+          "lat": 50.85,
+          "lon": 5.8,
+          "fact_nl": "Enige plek in Nederland met gesteente ouder dan het Tertiair: kalksteen uit het Krijt; hier werd tot 1974 steenkool (Carboon) gewonnen met schachtbouw.",
+          "fact_tr": "Hollanda'da Tersiyer'den eski kayacın bulunduğu tek yer: Kretase kireçtaşı; burada 1974'e kadar kuyu madenciliğiyle taşkömürü (Karbonifer) çıkarıldı."
+        },
+        {
+          "name_nl": "Maastricht",
+          "name_tr": "Maastricht",
+          "type": "city",
+          "country": "NL",
+          "lat": 50.85,
+          "lon": 5.69,
+          "fact_nl": "In Zuid-Limburg werd het skelet van een 15 meter lange maashagedis (mosasaurus) uit het Krijt gevonden.",
+          "fact_tr": "Güney Limburg'da Kretase'ye ait 15 metrelik bir mosazorun (Maas kertenkelesi) iskeleti bulundu."
+        },
+        {
+          "name_nl": "Groningen (gasveld)",
+          "name_tr": "Groningen (gaz sahası)",
+          "type": "resource",
+          "country": "NL",
+          "lat": 53.25,
+          "lon": 6.75,
+          "fact_nl": "Groot aardgasveld: gas uit steenkool (Carboon) zit in zandsteen uit het Perm onder steenzout; de winning veroorzaakte aardbevingen en bodemdaling.",
+          "fact_tr": "Büyük doğalgaz sahası: taşkömüründen (Karbonifer) gelen gaz, kaya tuzunun altındaki Permiyen kumtaşında; üretim depremlere ve toprak çökmesine yol açtı."
+        },
+        {
+          "name_nl": "Venlo",
+          "name_tr": "Venlo",
+          "type": "city",
+          "country": "NL",
+          "lat": 51.37,
+          "lon": 6.17,
+          "fact_nl": "Beginpunt van de dwarsdoorsnede Venlo-Geleen in de vaardigheden.",
+          "fact_tr": "Beceriler bölümündeki Venlo-Geleen enine kesitinin başlangıç noktası."
+        },
+        {
+          "name_nl": "Geleen",
+          "name_tr": "Geleen",
+          "type": "city",
+          "country": "NL",
+          "lat": 50.97,
+          "lon": 5.83,
+          "fact_nl": "Eindpunt van de dwarsdoorsnede Venlo-Geleen.",
+          "fact_tr": "Venlo-Geleen enine kesitinin bitiş noktası."
+        },
+        {
+          "name_nl": "Bonaire",
+          "name_tr": "Bonaire",
+          "type": "other",
+          "country": "BQ",
+          "lat": 12.15,
+          "lon": -68.27,
+          "fact_nl": "Dreigende natuurramp door aangespoelde aardolie.",
+          "fact_tr": "Kıyıya vuran petrol yüzünden doğal felaket tehlikesi."
+        },
+        {
+          "name_nl": "Suriname",
+          "name_tr": "Surinam",
+          "type": "country",
+          "country": "SR",
+          "lat": 4.0,
+          "lon": -56.0,
+          "fact_nl": "Goudwinning, vaak door informele goudzoekers met giftig kwik; campagne 'No Kwik' (2015) was niet succesvol.",
+          "fact_tr": "Genellikle zehirli cıva kullanan kayıt dışı madencilerce altın çıkarılıyor; 'No Kwik' kampanyası (2015) başarısız oldu."
+        },
+        {
+          "name_nl": "Rosebelmijn",
+          "name_tr": "Rosebel madeni",
+          "type": "resource",
+          "country": "SR",
+          "lat": 5.12,
+          "lon": -55.23,
+          "fact_nl": "Een van de grootste goudmijnen van Zuid-Amerika, bij Brokopondo.",
+          "fact_tr": "Brokopondo yakınında, Güney Amerika'nın en büyük altın madenlerinden biri."
+        },
+        {
+          "name_nl": "Lawarivier",
+          "name_tr": "Lawa Nehri",
+          "type": "river",
+          "country": "SR",
+          "lat": 3.5,
+          "lon": -54.1,
+          "fact_nl": "Grensrivier met Frans-Guyana waar de Wayana wonen, die veel last hebben van kwikvervuiling.",
+          "fact_tr": "Fransız Guyanası ile sınır nehri; cıva kirliliğinden çok etkilenen Wayana halkı burada yaşar."
+        },
+        {
+          "name_nl": "Paramaribo",
+          "name_tr": "Paramaribo",
+          "type": "city",
+          "country": "SR",
+          "lat": 5.85,
+          "lon": -55.2,
+          "fact_nl": "Hoofdstad van Suriname.",
+          "fact_tr": "Surinam'ın başkenti."
+        },
+        {
+          "name_nl": "Osun",
+          "name_tr": "Osun",
+          "type": "region",
+          "country": "NG",
+          "lat": 7.6,
+          "lon": 4.5,
+          "fact_nl": "Staat in Nigeria met goudwinning; grote bedrijven maken winst, maar kwik vervuilt het water, met waterschaarste als gevolg.",
+          "fact_tr": "Nijerya'da altın çıkarılan eyalet; büyük şirketler kâr ediyor ama cıva suyu kirletiyor ve su kıtlığına yol açıyor."
+        },
+        {
+          "name_nl": "Nigeria",
+          "name_tr": "Nijerya",
+          "type": "country",
+          "country": "NG",
+          "lat": 9.1,
+          "lon": 8.7,
+          "fact_nl": "Land met goudwinning en aardolie; de bevolking blijft met de gevolgen van vervuiling zitten.",
+          "fact_tr": "Altın ve petrol çıkarılan ülke; kirliliğin sonuçlarına halk katlanıyor."
+        },
+        {
+          "name_nl": "Duitsland (bruinkool)",
+          "name_tr": "Almanya (linyit)",
+          "type": "resource",
+          "country": "DE",
+          "lat": 50.9,
+          "lon": 6.5,
+          "fact_nl": "Bruinkool uit het Tertiair wordt in dagbouw gewonnen (Rijnland); Duitsland wint ook ijzererts.",
+          "fact_tr": "Tersiyer'e ait linyit açık ocakta çıkarılıyor (Ren bölgesi); Almanya demir cevheri de çıkarır."
+        },
+        {
+          "name_nl": "Silezië (Polen)",
+          "name_tr": "Silezya (Polonya)",
+          "type": "resource",
+          "country": "PL",
+          "lat": 50.3,
+          "lon": 19.0,
+          "fact_nl": "Steenkoolwinning in Polen.",
+          "fact_tr": "Polonya'da taşkömürü madenciliği."
+        },
+        {
+          "name_nl": "Kiruna",
+          "name_tr": "Kiruna",
+          "type": "resource",
+          "country": "SE",
+          "lat": 67.86,
+          "lon": 20.23,
+          "fact_nl": "IJzererts uit Zweden.",
+          "fact_tr": "İsveç'ten demir cevheri."
+        },
+        {
+          "name_nl": "Noordzee",
+          "name_tr": "Kuzey Denizi",
+          "type": "resource",
+          "country": "NO",
+          "lat": 57.0,
+          "lon": 3.0,
+          "fact_nl": "Meeste aardolie en aardgas van Europa; Noorwegen is een grote leverancier aan de EU.",
+          "fact_tr": "Avrupa'nın en çok petrol ve doğalgazı burada; Norveç AB'ye büyük tedarikçi."
+        },
+        {
+          "name_nl": "Rusland",
+          "name_tr": "Rusya",
+          "type": "country",
+          "country": "RU",
+          "lat": 60.0,
+          "lon": 90.0,
+          "fact_nl": "Leverde aardgas aan de EU; oorlog maakt handel onzeker en de EU koos ervoor geen Russisch gas meer te importeren.",
+          "fact_tr": "AB'ye doğalgaz sağlıyordu; savaş ticareti belirsizleştirdi ve AB artık Rus gazı ithal etmemeyi seçti."
+        },
+        {
+          "name_nl": "Frankrijk",
+          "name_tr": "Fransa",
+          "type": "country",
+          "country": "FR",
+          "lat": 46.6,
+          "lon": 2.4,
+          "fact_nl": "Heeft weinig eigen delfstoffen, maar produceert de meeste kernenergie van Europa (uranium als grondstof).",
+          "fact_tr": "Kendi madeni az ama Avrupa'da en çok nükleer enerji üreten ülke (hammadde uranyum)."
+        },
+        {
+          "name_nl": "Alpen",
+          "name_tr": "Alpler",
+          "type": "region",
+          "country": "CH",
+          "lat": 46.5,
+          "lon": 10.0,
+          "fact_nl": "Jong gebergte, grotendeels ontstaan in het Tertiair (Kenozoïcum).",
+          "fact_tr": "Büyük ölçüde Tersiyer'de (Senozoyik) oluşmuş genç sıradağlar."
+        },
+        {
+          "name_nl": "Pyreneeën",
+          "name_tr": "Pireneler",
+          "type": "region",
+          "country": "ES",
+          "lat": 42.7,
+          "lon": 0.5,
+          "fact_nl": "Jong gebergte uit het Tertiair tussen Frankrijk en Spanje.",
+          "fact_tr": "Fransa ile İspanya arasında Tersiyer'e ait genç sıradağlar."
+        }
+      ],
+      "questions": [
+        {
+          "q_nl": "Welke drie landen vormen samen de lithiumdriehoek?",
+          "q_tr": "Lityum üçgenini hangi üç ülke oluşturur?",
+          "answer_nl": "Bolivia, Argentinië en Chili",
+          "answer_tr": "Bolivya, Arjantin ve Şili",
+          "wrong_nl": [
+            "Peru, Brazilië en Chili",
+            "Bolivia, Peru en Ecuador",
+            "Argentinië, Uruguay en Paraguay"
+          ],
+          "wrong_tr": [
+            "Peru, Brezilya ve Şili",
+            "Bolivya, Peru ve Ekvador",
+            "Arjantin, Uruguay ve Paraguay"
+          ],
+          "place": "Lithiumdriehoek"
+        },
+        {
+          "q_nl": "Waarom protesteren de Jujuy tegen lithiumwinning?",
+          "q_tr": "Jujuy halkı lityum madenciliğini neden protesto ediyor?",
+          "answer_nl": "De winning verbruikt en vervuilt veel water",
+          "answer_tr": "Madencilik çok su harcıyor ve kirletiyor",
+          "wrong_nl": [
+            "Het veroorzaakt aardbevingen",
+            "Het vernietigt regenwoud",
+            "Er komt radioactieve straling vrij"
+          ],
+          "wrong_tr": [
+            "Depremlere yol açıyor",
+            "Yağmur ormanını yok ediyor",
+            "Radyoaktif ışınım yayılıyor"
+          ],
+          "place": "Jujuy"
+        },
+        {
+          "q_nl": "Op welk schiereiland in Mexico liggen de cenotes, ontstaan door een meteorietinslag?",
+          "q_tr": "Göktaşı çarpmasıyla oluşan cenote'ler Meksika'nın hangi yarımadasında?",
+          "answer_nl": "Yucatán",
+          "answer_tr": "Yucatán",
+          "wrong_nl": [
+            "Baja California",
+            "Florida",
+            "Sinaï"
+          ],
+          "wrong_tr": [
+            "Baja California",
+            "Florida",
+            "Sina"
+          ],
+          "place": "Yucatán"
+        },
+        {
+          "q_nl": "Welk tijdperk eindigde met de meteorietinslag van 66 miljoen jaar geleden?",
+          "q_tr": "66 milyon yıl önceki göktaşı çarpmasıyla hangi çağ sona erdi?",
+          "answer_nl": "Mesozoïcum",
+          "answer_tr": "Mezozoyik",
+          "wrong_nl": [
+            "Paleozoïcum",
+            "Precambrium",
+            "Kenozoïcum"
+          ],
+          "wrong_tr": [
+            "Paleozoyik",
+            "Prekambriyen",
+            "Senozoyik"
+          ],
+          "place": "Yucatán"
+        },
+        {
+          "q_nl": "Welk gesteente vind je in de basaltzuilen van Duitsland?",
+          "q_tr": "Almanya'daki bazalt sütunları hangi tür kayaçtır?",
+          "answer_nl": "Stollingsgesteente",
+          "answer_tr": "Magmatik kayaç",
+          "wrong_nl": [
+            "Sedimentgesteente",
+            "Metamorf gesteente",
+            "Kalksteen"
+          ],
+          "wrong_tr": [
+            "Tortul kayaç",
+            "Başkalaşım kayacı",
+            "Kireçtaşı"
+          ],
+          "place": "Eifel (basaltzuilen)"
+        },
+        {
+          "q_nl": "In welk Afrikaans land worden veel nieuwe vondsten van uranium gedaan?",
+          "q_tr": "Hangi Afrika ülkesinde çok sayıda yeni uranyum bulunuyor?",
+          "answer_nl": "Niger",
+          "answer_tr": "Nijer",
+          "wrong_nl": [
+            "Kenia",
+            "Marokko",
+            "Madagaskar"
+          ],
+          "wrong_tr": [
+            "Kenya",
+            "Fas",
+            "Madagaskar"
+          ],
+          "place": "Niger (uranium)"
+        },
+        {
+          "q_nl": "In welk land worden koper en kobalt gewonnen in de mijnen uit de intro van paragraaf 2.3?",
+          "q_tr": "2.3'ün girişindeki madenlerde bakır ve kobalt hangi ülkede çıkarılıyor?",
+          "answer_nl": "Democratische Republiek Congo",
+          "answer_tr": "Kongo Demokratik Cumhuriyeti",
+          "wrong_nl": [
+            "Nigeria",
+            "Egypte",
+            "Angola"
+          ],
+          "wrong_tr": [
+            "Nijerya",
+            "Mısır",
+            "Angola"
+          ],
+          "place": "Democratische Republiek Congo"
+        },
+        {
+          "q_nl": "Waar in Nederland vind je kalksteen uit het Krijt aan de oppervlakte?",
+          "q_tr": "Hollanda'da Kretase kireçtaşı yüzeyde nerede bulunur?",
+          "answer_nl": "Zuid-Limburg",
+          "answer_tr": "Güney Limburg",
+          "wrong_nl": [
+            "Groningen",
+            "Zeeland",
+            "Drenthe"
+          ],
+          "wrong_tr": [
+            "Groningen",
+            "Zeeland",
+            "Drenthe"
+          ],
+          "place": "Zuid-Limburg"
+        },
+        {
+          "q_nl": "In welke provincie ligt het grote aardgasveld dat aardbevingen veroorzaakte?",
+          "q_tr": "Depremlere yol açan büyük doğalgaz sahası hangi eyalettedir?",
+          "answer_nl": "Groningen",
+          "answer_tr": "Groningen",
+          "wrong_nl": [
+            "Limburg",
+            "Friesland",
+            "Noord-Holland"
+          ],
+          "wrong_tr": [
+            "Limburg",
+            "Friesland",
+            "Kuzey Hollanda"
+          ],
+          "place": "Groningen (gasveld)"
+        },
+        {
+          "q_nl": "Sinds welk jaar wordt er in Nederland geen steenkool meer gewonnen?",
+          "q_tr": "Hollanda'da hangi yıldan beri taşkömürü çıkarılmıyor?",
+          "answer_nl": "1974",
+          "answer_tr": "1974",
+          "wrong_nl": [
+            "1945",
+            "1990",
+            "2018"
+          ],
+          "wrong_tr": [
+            "1945",
+            "1990",
+            "2018"
+          ],
+          "place": "Zuid-Limburg"
+        },
+        {
+          "q_nl": "Welk Europees land wint veel ijzererts (bijv. bij Kiruna)?",
+          "q_tr": "Hangi Avrupa ülkesi çok demir cevheri çıkarır (örn. Kiruna'da)?",
+          "answer_nl": "Zweden",
+          "answer_tr": "İsveç",
+          "wrong_nl": [
+            "Nederland",
+            "Portugal",
+            "Griekenland"
+          ],
+          "wrong_tr": [
+            "Hollanda",
+            "Portekiz",
+            "Yunanistan"
+          ],
+          "place": "Kiruna"
+        },
+        {
+          "q_nl": "Welk land produceert de meeste kernenergie in Europa?",
+          "q_tr": "Avrupa'da en çok nükleer enerjiyi hangi ülke üretir?",
+          "answer_nl": "Frankrijk",
+          "answer_tr": "Fransa",
+          "wrong_nl": [
+            "Duitsland",
+            "Italië",
+            "Polen"
+          ],
+          "wrong_tr": [
+            "Almanya",
+            "İtalya",
+            "Polonya"
+          ],
+          "place": "Frankrijk"
+        },
+        {
+          "q_nl": "Welk giftig metaal gebruiken goudzoekers in Suriname om goud los te maken van het gesteente?",
+          "q_tr": "Surinam'daki altın arayıcıları altını kayaçtan ayırmak için hangi zehirli metali kullanır?",
+          "answer_nl": "Kwik",
+          "answer_tr": "Cıva",
+          "wrong_nl": [
+            "Lood",
+            "Arseen",
+            "Cadmium"
+          ],
+          "wrong_tr": [
+            "Kurşun",
+            "Arsenik",
+            "Kadmiyum"
+          ],
+          "place": "Suriname"
+        }
+      ]
+    },
+    {
+      "id": "h03",
+      "title_nl": "Migratie",
+      "title_tr": "Göç",
+      "paragraphs": [
+        "Introductie",
+        "Vaardigheden: stappenplan meningsvorming en waardenkwadrant",
+        "3.1 Migratie in de wereld",
+        "3.2 Gevolgen voor de herkomstgebieden",
+        "3.3 Gevolgen voor de bestemmingsgebieden",
+        "Landenvergelijking: Verenigde Arabische Emiraten en Mexico",
+        "3.4 Migratie en de Europese Unie",
+        "3.5 Migratie en Nederland",
+        "Keuzeopdrachten",
+        "In vogelvlucht",
+        "Samenvatting",
+        "Begrippen"
+      ],
+      "concepts": [
+        {
+          "paragraph": "vaardigheden",
+          "nl": "waardenkwadrant",
+          "def_nl": "Schema om een mening te vormen door meningen (x-as) te koppelen aan onderliggende waarden (y-as).",
+          "tr": "değerler dörtlüsü",
+          "def_tr": "Görüşleri (x ekseni) altta yatan değerlere (y ekseni) bağlayarak fikir oluşturma şeması."
+        },
+        {
+          "paragraph": "3.1",
+          "nl": "migrant",
+          "def_nl": "Iemand die naar een andere plaats of een ander land verhuist.",
+          "tr": "göçmen",
+          "def_tr": "Başka bir yere veya ülkeye taşınan kişi."
+        },
+        {
+          "paragraph": "3.1",
+          "nl": "binnenlandse migratie",
+          "def_nl": "Verhuizen binnen het eigen land, bijvoorbeeld van platteland naar stad; de meest voorkomende vorm.",
+          "tr": "iç göç",
+          "def_tr": "Kendi ülkesi içinde taşınma, örneğin kırdan kente; en yaygın göç türü."
+        },
+        {
+          "paragraph": "3.1",
+          "nl": "emigrant",
+          "def_nl": "Iemand die zijn land verlaat (gezien vanuit het land van vertrek).",
+          "tr": "göç veren (dışa göçmen)",
+          "def_tr": "Ülkesini terk eden kişi (ayrıldığı ülke açısından)."
+        },
+        {
+          "paragraph": "3.1",
+          "nl": "immigrant",
+          "def_nl": "Iemand die zich in een ander land vestigt (gezien vanuit het land van aankomst).",
+          "tr": "göç alan (içe göçmen)",
+          "def_tr": "Başka bir ülkeye yerleşen kişi (vardığı ülke açısından)."
+        },
+        {
+          "paragraph": "3.1",
+          "nl": "arbeidsmigrant",
+          "def_nl": "Iemand die om economische redenen verhuist om werk en een hoger inkomen te vinden.",
+          "tr": "işçi göçmen",
+          "def_tr": "İş ve daha yüksek gelir için ekonomik nedenlerle taşınan kişi."
+        },
+        {
+          "paragraph": "3.1",
+          "nl": "kennismigrant",
+          "def_nl": "Iemand die naar een ander land verhuist om daar vanwege specialistische kennis te werken; ook internationale studenten.",
+          "tr": "nitelikli göçmen (bilgi göçmeni)",
+          "def_tr": "Uzmanlık bilgisi nedeniyle başka ülkede çalışmak için taşınan kişi; uluslararası öğrenciler de dahil."
+        },
+        {
+          "paragraph": "3.1",
+          "nl": "gezinsmigrant",
+          "def_nl": "Iemand die om sociale redenen verhuist, zoals gezinsvorming of gezinshereniging.",
+          "tr": "aile göçmeni",
+          "def_tr": "Aile kurma veya aile birleşimi gibi sosyal nedenlerle taşınan kişi."
+        },
+        {
+          "paragraph": "3.1",
+          "nl": "vluchteling",
+          "def_nl": "Iemand die gedwongen vertrekt vanwege oorlog, vervolging of een natuurramp; ongeveer 10 procent van alle migranten.",
+          "tr": "mülteci",
+          "def_tr": "Savaş, zulüm veya doğal afet nedeniyle zorunlu olarak ayrılan kişi; tüm göçmenlerin yaklaşık yüzde 10'u."
+        },
+        {
+          "paragraph": "3.1",
+          "nl": "asielzoeker",
+          "def_nl": "Iemand die als vluchteling bescherming aanvraagt in een ander land.",
+          "tr": "sığınmacı",
+          "def_tr": "Başka bir ülkede mülteci olarak koruma başvurusu yapan kişi."
+        },
+        {
+          "paragraph": "3.2",
+          "nl": "migratienetwerk",
+          "def_nl": "(Internationaal) netwerk van familieleden en bekenden van migranten dat nieuwe migratie makkelijker maakt.",
+          "tr": "göç ağı",
+          "def_tr": "Yeni göçü kolaylaştıran, göçmenlerin akraba ve tanıdıklarından oluşan (uluslararası) ağ."
+        },
+        {
+          "paragraph": "3.2",
+          "nl": "volgmigratie",
+          "def_nl": "Wanneer migratie leidt tot meer migratie.",
+          "tr": "zincirleme göç",
+          "def_tr": "Göçün daha fazla göçe yol açması."
+        },
+        {
+          "paragraph": "3.2",
+          "nl": "pushfactor",
+          "def_nl": "Factor die iemand als het ware wegduwt uit een gebied, zoals armoede of oorlog.",
+          "tr": "itici faktör",
+          "def_tr": "Bir kişiyi bölgeden adeta dışarı iten etken; örneğin yoksulluk veya savaş."
+        },
+        {
+          "paragraph": "3.2",
+          "nl": "pullfactor",
+          "def_nl": "Factor die iemand als het ware aantrekt naar een gebied, zoals welvaart of veiligheid.",
+          "tr": "çekici faktör",
+          "def_tr": "Bir kişiyi bir bölgeye adeta çeken etken; örneğin refah veya güvenlik."
+        },
+        {
+          "paragraph": "3.2",
+          "nl": "aspiratie",
+          "def_nl": "De wil om de eigen situatie te verbeteren (aspiraties-mogelijkhedenmodel).",
+          "tr": "özlem (istek)",
+          "def_tr": "Kendi durumunu iyileştirme isteği (özlemler-imkânlar modeli)."
+        },
+        {
+          "paragraph": "3.2",
+          "nl": "retourmigratie",
+          "def_nl": "Migratie van mensen die terugkeren naar hun herkomstland.",
+          "tr": "geri dönüş göçü",
+          "def_tr": "Kökenlerinin olduğu ülkeye geri dönen insanların göçü."
+        },
+        {
+          "paragraph": "3.2",
+          "nl": "selectieve migratie",
+          "def_nl": "Migratie van een bepaalde bevolkingsgroep (vaak jongeren) uit een herkomstland.",
+          "tr": "seçici göç",
+          "def_tr": "Belirli bir nüfus grubunun (genellikle gençlerin) ülkeden göçü."
+        },
+        {
+          "paragraph": "3.2",
+          "nl": "geldzending",
+          "def_nl": "Geld dat migranten terugsturen naar hun herkomstland.",
+          "tr": "para havalesi (göçmen dövizi)",
+          "def_tr": "Göçmenlerin kendi ülkelerine geri gönderdiği para."
+        },
+        {
+          "paragraph": "3.2",
+          "nl": "braindrain",
+          "def_nl": "Als veel mensen met schaarse vaardigheden het herkomstland verlaten.",
+          "tr": "beyin göçü",
+          "def_tr": "Nadir becerilere sahip çok sayıda kişinin ülkeyi terk etmesi."
+        },
+        {
+          "paragraph": "3.2",
+          "nl": "braingain",
+          "def_nl": "Als veel mensen met schaarse vaardigheden naar een land (terug)komen.",
+          "tr": "beyin kazancı",
+          "def_tr": "Nadir becerilere sahip çok sayıda kişinin bir ülkeye (geri) gelmesi."
+        },
+        {
+          "paragraph": "3.3",
+          "nl": "multiculturele samenleving",
+          "def_nl": "Samenleving waarin veel verschillende culturen voorkomen.",
+          "tr": "çok kültürlü toplum",
+          "def_tr": "Birçok farklı kültürün bir arada bulunduğu toplum."
+        },
+        {
+          "paragraph": "3.3",
+          "nl": "acculturatie",
+          "def_nl": "Het overnemen van kenmerken uit andere culturen.",
+          "tr": "kültürleşme",
+          "def_tr": "Başka kültürlerin özelliklerini benimseme."
+        },
+        {
+          "paragraph": "3.3",
+          "nl": "integratie",
+          "def_nl": "Wanneer immigranten steeds meer culturele kenmerken van het bestemmingsgebied overnemen.",
+          "tr": "entegrasyon (uyum)",
+          "def_tr": "Göçmenlerin gittikleri yerin kültürel özelliklerini giderek daha çok benimsemesi."
+        },
+        {
+          "paragraph": "3.3",
+          "nl": "segregatie",
+          "def_nl": "Ruimtelijke scheiding van groepen mensen.",
+          "tr": "ayrışma (segregasyon)",
+          "def_tr": "İnsan gruplarının mekânsal olarak ayrılması."
+        },
+        {
+          "paragraph": "3.4",
+          "nl": "gastarbeider",
+          "def_nl": "Arbeidsmigrant die vanaf de jaren 1960 door de overheid als tijdelijke arbeider werd geworven (uit Spanje, Italië, Turkije, Marokko).",
+          "tr": "misafir işçi",
+          "def_tr": "1960'lardan itibaren devlet tarafından geçici işçi olarak getirilen işçi göçmen (İspanya, İtalya, Türkiye, Fas'tan)."
+        },
+        {
+          "paragraph": "3.4",
+          "nl": "koloniale migrant",
+          "def_nl": "Migrant uit een voormalige kolonie, zoals Surinamers, Antillianen, Molukkers en Indische Nederlanders.",
+          "tr": "sömürge göçmeni",
+          "def_tr": "Eski bir sömürgeden gelen göçmen; örneğin Surinamlılar, Antilliler, Moluklular ve Endonezya kökenli Hollandalılar."
+        },
+        {
+          "paragraph": "3.4",
+          "nl": "gezinshereniging",
+          "def_nl": "Familieleden van een migrant komen hem of haar achterna naar het nieuwe land.",
+          "tr": "aile birleşimi",
+          "def_tr": "Göçmenin aile üyelerinin onun yanına yeni ülkeye gelmesi."
+        },
+        {
+          "paragraph": "3.4",
+          "nl": "Schengengebied",
+          "def_nl": "Gebied van Europese landen zonder grenscontroles aan de binnengrenzen.",
+          "tr": "Schengen bölgesi",
+          "def_tr": "İç sınırlarında sınır kontrolü olmayan Avrupa ülkeleri bölgesi."
+        },
+        {
+          "paragraph": "3.5",
+          "nl": "eerste generatie migrant",
+          "def_nl": "Iemand die in Nederland woont, maar in het buitenland is geboren (ruim 2,5 miljoen mensen).",
+          "tr": "birinci kuşak göçmen",
+          "def_tr": "Hollanda'da yaşayan ama yurt dışında doğmuş kişi (2,5 milyondan fazla)."
+        },
+        {
+          "paragraph": "3.5",
+          "nl": "tweede generatie migrant",
+          "def_nl": "Iemand die in Nederland is geboren en van wie minstens één ouder in het buitenland is geboren (ongeveer 2 miljoen mensen).",
+          "tr": "ikinci kuşak göçmen",
+          "def_tr": "Hollanda'da doğmuş ve en az bir ebeveyni yurt dışında doğmuş kişi (yaklaşık 2 milyon)."
+        },
+        {
+          "paragraph": "3.5",
+          "nl": "integratiebeleid",
+          "def_nl": "Beleid van de overheid dat ervoor moet zorgen dat migranten sneller integreren.",
+          "tr": "uyum politikası",
+          "def_tr": "Göçmenlerin daha hızlı uyum sağlamasını amaçlayan devlet politikası."
+        },
+        {
+          "paragraph": "3.5",
+          "nl": "inburgeringsplicht",
+          "def_nl": "Verplichting voor immigranten (van buiten de EU) om een inburgeringscursus te volgen en een examen te doen over de Nederlandse taal en samenleving.",
+          "tr": "uyum yükümlülüğü",
+          "def_tr": "AB dışından gelen göçmenlerin uyum kursuna katılma ve Hollanda dili ve toplumu hakkında sınava girme zorunluluğu."
+        }
+      ],
+      "places": [
+        {
+          "name_nl": "Dubai",
+          "name_tr": "Dubai",
+          "type": "city",
+          "country": "AE",
+          "lat": 25.2,
+          "lon": 55.27,
+          "fact_nl": "Grootste stad van de VAE, rijk geworden door aardolie en nu gericht op exclusief toerisme; ongeveer 80 procent van de bevolking bestaat uit arbeidsmigranten, veel uit Zuid-Azië.",
+          "fact_tr": "BAE'nin en büyük şehri; petrolle zenginleşti, şimdi lüks turizme yöneliyor; nüfusun yaklaşık yüzde 80'i işçi göçmen, çoğu Güney Asya'dan."
+        },
+        {
+          "name_nl": "Abu Dhabi",
+          "name_tr": "Abu Dabi",
+          "type": "city",
+          "country": "AE",
+          "lat": 24.45,
+          "lon": 54.38,
+          "fact_nl": "Hoofdstad van de Verenigde Arabische Emiraten.",
+          "fact_tr": "Birleşik Arap Emirlikleri'nin başkenti."
+        },
+        {
+          "name_nl": "Verenigde Arabische Emiraten",
+          "name_tr": "Birleşik Arap Emirlikleri",
+          "type": "country",
+          "country": "AE",
+          "lat": 23.9,
+          "lon": 54.3,
+          "fact_nl": "Land met een van de hoogste percentages immigranten ter wereld (ongeveer 88 procent); grenst aan de Perzische Golf en de Golf van Oman.",
+          "fact_tr": "Dünyada göçmen oranı en yüksek ülkelerden biri (yaklaşık yüzde 88); Basra Körfezi ve Umman Körfezi'ne kıyısı var."
+        },
+        {
+          "name_nl": "Mexico-Stad",
+          "name_tr": "Meksiko",
+          "type": "city",
+          "country": "MX",
+          "lat": 19.43,
+          "lon": -99.13,
+          "fact_nl": "Hoofdstad van Mexico.",
+          "fact_tr": "Meksika'nın başkenti."
+        },
+        {
+          "name_nl": "Mexico",
+          "name_tr": "Meksika",
+          "type": "country",
+          "country": "MX",
+          "lat": 23.6,
+          "lon": -102.5,
+          "fact_nl": "Emigratieland; Mexico-VS is de grootste internationale migratiecorridor ter wereld; migranten proberen via de grensmuur de VS in te komen.",
+          "fact_tr": "Göç veren ülke; Meksika-ABD dünyanın en büyük uluslararası göç koridoru; göçmenler sınır duvarını aşarak ABD'ye girmeye çalışıyor."
+        },
+        {
+          "name_nl": "Ciudad Juárez / El Paso",
+          "name_tr": "Ciudad Juárez / El Paso",
+          "type": "city",
+          "country": "MX",
+          "lat": 31.7,
+          "lon": -106.45,
+          "fact_nl": "Grensteden tegenover elkaar aan de grens tussen Mexico en de VS.",
+          "fact_tr": "Meksika-ABD sınırında karşılıklı sınır şehirleri."
+        },
+        {
+          "name_nl": "Rio Grande",
+          "name_tr": "Rio Grande",
+          "type": "river",
+          "country": "US",
+          "lat": 29.5,
+          "lon": -104.0,
+          "fact_nl": "Grensrivier tussen Mexico en de Verenigde Staten.",
+          "fact_tr": "Meksika ile ABD arasındaki sınır nehri."
+        },
+        {
+          "name_nl": "Syrië",
+          "name_tr": "Suriye",
+          "type": "country",
+          "country": "SY",
+          "lat": 35.0,
+          "lon": 38.5,
+          "fact_nl": "Een van de grootste herkomstlanden van vluchtelingen; Syrië-Turkije is de tweede grootste migratiecorridor.",
+          "fact_tr": "En çok mülteci veren ülkelerden biri; Suriye-Türkiye ikinci büyük göç koridoru."
+        },
+        {
+          "name_nl": "Turkije",
+          "name_tr": "Türkiye",
+          "type": "country",
+          "country": "TR",
+          "lat": 39.0,
+          "lon": 35.0,
+          "fact_nl": "Vangt veel vluchtelingen op (vooral uit Syrië); ook herkomstland van gastarbeiders naar Duitsland en Nederland.",
+          "fact_tr": "Çok sayıda mülteciye ev sahipliği yapıyor (özellikle Suriye'den); ayrıca Almanya ve Hollanda'ya giden misafir işçilerin ülkesi."
+        },
+        {
+          "name_nl": "Iran",
+          "name_tr": "İran",
+          "type": "country",
+          "country": "IR",
+          "lat": 32.4,
+          "lon": 53.7,
+          "fact_nl": "Vangt de meeste vluchtelingen op (vooral uit Afghanistan).",
+          "fact_tr": "En çok mülteciye ev sahipliği yapan ülke (özellikle Afganistan'dan)."
+        },
+        {
+          "name_nl": "Afghanistan",
+          "name_tr": "Afganistan",
+          "type": "country",
+          "country": "AF",
+          "lat": 33.9,
+          "lon": 67.7,
+          "fact_nl": "Grootste herkomstland van vluchtelingen (naar Iran en Pakistan).",
+          "fact_tr": "En çok mülteci veren ülke (İran ve Pakistan'a)."
+        },
+        {
+          "name_nl": "Colombia",
+          "name_tr": "Kolombiya",
+          "type": "country",
+          "country": "CO",
+          "lat": 4.6,
+          "lon": -74.1,
+          "fact_nl": "Vangt veel vluchtelingen uit buurland Venezuela op.",
+          "fact_tr": "Komşu Venezuela'dan gelen çok sayıda mülteciye ev sahipliği yapıyor."
+        },
+        {
+          "name_nl": "Venezuela",
+          "name_tr": "Venezuela",
+          "type": "country",
+          "country": "VE",
+          "lat": 7.0,
+          "lon": -66.0,
+          "fact_nl": "Een van de vijf grootste herkomstlanden van vluchtelingen (vooral naar Colombia).",
+          "fact_tr": "En çok mülteci veren beş ülkeden biri (özellikle Kolombiya'ya)."
+        },
+        {
+          "name_nl": "Zuid-Soedan",
+          "name_tr": "Güney Sudan",
+          "type": "country",
+          "country": "SS",
+          "lat": 7.0,
+          "lon": 30.0,
+          "fact_nl": "Een van de vijf grootste herkomstlanden van vluchtelingen.",
+          "fact_tr": "En çok mülteci veren beş ülkeden biri."
+        },
+        {
+          "name_nl": "India",
+          "name_tr": "Hindistan",
+          "type": "country",
+          "country": "IN",
+          "lat": 21.0,
+          "lon": 78.0,
+          "fact_nl": "Land met de meeste emigranten en grootste ontvanger van geldzendingen; veel arbeidsmigranten naar de VAE en Saudi-Arabië; braindrain van kennismigranten naar VS en VK.",
+          "fact_tr": "En çok göç veren ve en çok para havalesi alan ülke; BAE ve Suudi Arabistan'a çok işçi göçmen; ABD ve Birleşik Krallık'a beyin göçü."
+        },
+        {
+          "name_nl": "Ghana",
+          "name_tr": "Gana",
+          "type": "country",
+          "country": "GH",
+          "lat": 7.9,
+          "lon": -1.0,
+          "fact_nl": "Voorbeeld van geldzendingen: 'In Ghana is je familie jouw sociale zekerheid.'",
+          "fact_tr": "Para havalesi örneği: 'Gana'da ailen senin sosyal güvencendir.'"
+        },
+        {
+          "name_nl": "Filipijnen",
+          "name_tr": "Filipinler",
+          "type": "country",
+          "country": "PH",
+          "lat": 12.9,
+          "lon": 121.8,
+          "fact_nl": "Groot emigratieland en grote ontvanger van geldzendingen (migratiecorridor Filipijnen-VS).",
+          "fact_tr": "Büyük göç veren ülke ve büyük para havalesi alıcısı (Filipinler-ABD göç koridoru)."
+        },
+        {
+          "name_nl": "Manila",
+          "name_tr": "Manila",
+          "type": "city",
+          "country": "PH",
+          "lat": 14.6,
+          "lon": 120.98,
+          "fact_nl": "Voorbeeld van segregatie: rijke en arme wijken direct naast elkaar.",
+          "fact_tr": "Ayrışma örneği: zengin ve yoksul mahalleler yan yana."
+        },
+        {
+          "name_nl": "Londen (Chinatown)",
+          "name_tr": "Londra (Çin Mahallesi)",
+          "type": "city",
+          "country": "GB",
+          "lat": 51.51,
+          "lon": -0.13,
+          "fact_nl": "Chinatown als voorbeeld van een multiculturele samenleving.",
+          "fact_tr": "Çok kültürlü toplum örneği olarak Çin Mahallesi."
+        },
+        {
+          "name_nl": "New York",
+          "name_tr": "New York",
+          "type": "city",
+          "country": "US",
+          "lat": 40.71,
+          "lon": -74.0,
+          "fact_nl": "Veel in het buitenland geboren inwoners (vooral uit de Dominicaanse Republiek en China) die geclusterd wonen: segregatie.",
+          "fact_tr": "Yurt dışında doğmuş çok sakini var (özellikle Dominik Cumhuriyeti ve Çin'den); kümelenerek yaşıyorlar: ayrışma."
+        },
+        {
+          "name_nl": "Griekenland, Italië en Spanje",
+          "name_tr": "Yunanistan, İtalya ve İspanya",
+          "type": "region",
+          "country": "ES",
+          "lat": 40.0,
+          "lon": 10.0,
+          "fact_nl": "Tot ongeveer 1971 emigratielanden (gastarbeiders naar West-Europa); nu bestemmingslanden voor vluchtelingen aan de EU-buitengrens.",
+          "fact_tr": "Yaklaşık 1971'e kadar göç veren ülkeler (Batı Avrupa'ya misafir işçiler); şimdi AB dış sınırında mültecilerin vardığı ülkeler."
+        },
+        {
+          "name_nl": "Canarische Eilanden",
+          "name_tr": "Kanarya Adaları",
+          "type": "region",
+          "country": "ES",
+          "lat": 28.3,
+          "lon": -15.6,
+          "fact_nl": "Belangrijke aankomstroute van migranten uit Afrika naar de EU.",
+          "fact_tr": "Afrika'dan AB'ye gelen göçmenlerin önemli varış noktası."
+        },
+        {
+          "name_nl": "Ceuta",
+          "name_tr": "Ceuta",
+          "type": "city",
+          "country": "ES",
+          "lat": 35.89,
+          "lon": -5.32,
+          "fact_nl": "Spaanse stad in Noord-Afrika aan de EU-buitengrens.",
+          "fact_tr": "Kuzey Afrika'da AB dış sınırındaki İspanyol şehri."
+        },
+        {
+          "name_nl": "Kroatië",
+          "name_tr": "Hırvatistan",
+          "type": "country",
+          "country": "HR",
+          "lat": 45.1,
+          "lon": 15.2,
+          "fact_nl": "Land aan de buitengrens van de EU waar vluchtelingen aankomen (Balkanroute).",
+          "fact_tr": "Mültecilerin vardığı AB dış sınırındaki ülke (Balkan rotası)."
+        },
+        {
+          "name_nl": "Duitsland",
+          "name_tr": "Almanya",
+          "type": "country",
+          "country": "DE",
+          "lat": 51.2,
+          "lon": 10.4,
+          "fact_nl": "Ontving in 2023 de meeste asielaanvragen in de EU (29 procent); veel Poolse en Turkse migranten.",
+          "fact_tr": "2023'te AB'de en çok sığınma başvurusu alan ülke (yüzde 29); çok sayıda Polonyalı ve Türk göçmen."
+        },
+        {
+          "name_nl": "Polen",
+          "name_tr": "Polonya",
+          "type": "country",
+          "country": "PL",
+          "lat": 52.0,
+          "lon": 19.0,
+          "fact_nl": "Grootste groep EU-migranten in Nederland; arbeidsmigranten werken in de tuinbouw.",
+          "fact_tr": "Hollanda'daki en büyük AB göçmen grubu; işçi göçmenler seracılıkta çalışıyor."
+        },
+        {
+          "name_nl": "Suriname",
+          "name_tr": "Surinam",
+          "type": "country",
+          "country": "SR",
+          "lat": 4.0,
+          "lon": -56.0,
+          "fact_nl": "Na de onafhankelijkheid (1975) kwamen veel Surinamers als koloniale migranten naar Nederland.",
+          "fact_tr": "Bağımsızlıktan sonra (1975) birçok Surinamlı sömürge göçmeni olarak Hollanda'ya geldi."
+        },
+        {
+          "name_nl": "Marokko",
+          "name_tr": "Fas",
+          "type": "country",
+          "country": "MA",
+          "lat": 31.8,
+          "lon": -7.1,
+          "fact_nl": "Herkomstland van gastarbeiders (jaren 1960-70); een van de grootste herkomstlanden van eerste generatie migranten in Nederland.",
+          "fact_tr": "Misafir işçilerin geldiği ülke (1960-70'ler); Hollanda'daki birinci kuşak göçmenlerin en büyük kaynaklarından."
+        },
+        {
+          "name_nl": "Molukken",
+          "name_tr": "Maluku Adaları",
+          "type": "region",
+          "country": "ID",
+          "lat": -3.2,
+          "lon": 129.5,
+          "fact_nl": "Molukkers kwamen na de onafhankelijkheid van Indonesië als koloniale migranten naar Nederland.",
+          "fact_tr": "Moluklular Endonezya'nın bağımsızlığından sonra sömürge göçmeni olarak Hollanda'ya geldi."
+        },
+        {
+          "name_nl": "Verenigde Staten",
+          "name_tr": "Amerika Birleşik Devletleri",
+          "type": "country",
+          "country": "US",
+          "lat": 39.8,
+          "lon": -98.6,
+          "fact_nl": "Grootste bestemmingsland van migranten (uit Mexico, India, China, Filipijnen) en grootste zender van geldzendingen; bouwde een muur langs een deel van de grens met Mexico.",
+          "fact_tr": "Göçmenlerin en çok gittiği ülke (Meksika, Hindistan, Çin, Filipinler'den) ve en çok para havalesi gönderen ülke; Meksika sınırının bir kısmına duvar ördü."
+        },
+        {
+          "name_nl": "Den Haag",
+          "name_tr": "Lahey",
+          "type": "city",
+          "country": "NL",
+          "lat": 52.08,
+          "lon": 4.3,
+          "fact_nl": "Oost-Europeanen wonen vooral in wijken met lage huizenprijzen (zoals Schilderswijk, Laakkwartier, Transvaalkwartier).",
+          "fact_tr": "Doğu Avrupalılar çoğunlukla ev fiyatları düşük mahallelerde yaşıyor (Schilderswijk, Laakkwartier, Transvaalkwartier gibi)."
+        }
+      ],
+      "questions": [
+        {
+          "q_nl": "Welke migratiecorridor had in 2023 de meeste internationale migranten?",
+          "q_tr": "2023'te en çok uluslararası göçmenin olduğu göç koridoru hangisidir?",
+          "answer_nl": "Mexico → Verenigde Staten",
+          "answer_tr": "Meksika → ABD",
+          "wrong_nl": [
+            "Syrië → Turkije",
+            "India → VAE",
+            "Polen → Duitsland"
+          ],
+          "wrong_tr": [
+            "Suriye → Türkiye",
+            "Hindistan → BAE",
+            "Polonya → Almanya"
+          ],
+          "place": "Mexico"
+        },
+        {
+          "q_nl": "In welke stad bestaat ongeveer 80 procent van de bevolking uit arbeidsmigranten?",
+          "q_tr": "Hangi şehirde nüfusun yaklaşık yüzde 80'i işçi göçmendir?",
+          "answer_nl": "Dubai",
+          "answer_tr": "Dubai",
+          "wrong_nl": [
+            "Riyad",
+            "Istanbul",
+            "Caïro"
+          ],
+          "wrong_tr": [
+            "Riyad",
+            "İstanbul",
+            "Kahire"
+          ],
+          "place": "Dubai"
+        },
+        {
+          "q_nl": "Wat is de hoofdstad van de Verenigde Arabische Emiraten?",
+          "q_tr": "Birleşik Arap Emirlikleri'nin başkenti neresidir?",
+          "answer_nl": "Abu Dhabi",
+          "answer_tr": "Abu Dabi",
+          "wrong_nl": [
+            "Dubai",
+            "Doha",
+            "Muscat"
+          ],
+          "wrong_tr": [
+            "Dubai",
+            "Doha",
+            "Maskat"
+          ],
+          "place": "Abu Dhabi"
+        },
+        {
+          "q_nl": "Welk land vangt de meeste vluchtelingen op (2023)?",
+          "q_tr": "Hangi ülke en çok mülteciye ev sahipliği yapıyor (2023)?",
+          "answer_nl": "Iran",
+          "answer_tr": "İran",
+          "wrong_nl": [
+            "Duitsland",
+            "Colombia",
+            "Pakistan"
+          ],
+          "wrong_tr": [
+            "Almanya",
+            "Kolombiya",
+            "Pakistan"
+          ],
+          "place": "Iran"
+        },
+        {
+          "q_nl": "Welk land ontvangt wereldwijd de meeste geldzendingen?",
+          "q_tr": "Dünyada en çok para havalesi alan ülke hangisidir?",
+          "answer_nl": "India",
+          "answer_tr": "Hindistan",
+          "wrong_nl": [
+            "Mexico",
+            "Filipijnen",
+            "Nigeria"
+          ],
+          "wrong_tr": [
+            "Meksika",
+            "Filipinler",
+            "Nijerya"
+          ],
+          "place": "India"
+        },
+        {
+          "q_nl": "Uit welk land kwamen gastarbeiders NIET naar Nederland in de jaren 1960-70?",
+          "q_tr": "1960-70'lerde Hollanda'ya hangi ülkeden misafir işçi GELMEDİ?",
+          "answer_nl": "Zweden",
+          "answer_tr": "İsveç",
+          "wrong_nl": [
+            "Turkije",
+            "Marokko",
+            "Spanje"
+          ],
+          "wrong_tr": [
+            "Türkiye",
+            "Fas",
+            "İspanya"
+          ],
+          "place": "Marokko"
+        },
+        {
+          "q_nl": "Welke groep kwam als koloniale migranten naar Nederland?",
+          "q_tr": "Hangi grup Hollanda'ya sömürge göçmeni olarak geldi?",
+          "answer_nl": "Surinamers",
+          "answer_tr": "Surinamlılar",
+          "wrong_nl": [
+            "Polen",
+            "Syriërs",
+            "Italianen"
+          ],
+          "wrong_tr": [
+            "Polonyalılar",
+            "Suriyeliler",
+            "İtalyanlar"
+          ],
+          "place": "Suriname"
+        },
+        {
+          "q_nl": "Welk land ontving in 2023 de meeste asielaanvragen in de EU?",
+          "q_tr": "2023'te AB'de en çok sığınma başvurusunu hangi ülke aldı?",
+          "answer_nl": "Duitsland",
+          "answer_tr": "Almanya",
+          "wrong_nl": [
+            "Nederland",
+            "Italië",
+            "Oostenrijk"
+          ],
+          "wrong_tr": [
+            "Hollanda",
+            "İtalya",
+            "Avusturya"
+          ],
+          "place": "Duitsland"
+        },
+        {
+          "q_nl": "Waarom komen de meeste vluchtelingen aan in Zuid-Europese landen als Spanje, Italië en Griekenland?",
+          "q_tr": "Mültecilerin çoğu neden İspanya, İtalya ve Yunanistan gibi Güney Avrupa ülkelerine varıyor?",
+          "answer_nl": "Ze liggen aan de buitengrens van de EU, dicht bij Afrika en het Midden-Oosten",
+          "answer_tr": "AB'nin dış sınırında, Afrika'ya ve Orta Doğu'ya yakınlar",
+          "wrong_nl": [
+            "Ze hebben de hoogste lonen van Europa",
+            "Ze hebben geen grenscontroles",
+            "Ze zijn geen lid van de EU"
+          ],
+          "wrong_tr": [
+            "Avrupa'nın en yüksek ücretleri oradadır",
+            "Sınır kontrolleri yoktur",
+            "AB üyesi değillerdir"
+          ],
+          "place": "Griekenland, Italië en Spanje"
+        },
+        {
+          "q_nl": "Welk land stuurt de meeste geldzendingen de wereld over?",
+          "q_tr": "Dünyaya en çok para havalesi gönderen ülke hangisidir?",
+          "answer_nl": "Verenigde Staten",
+          "answer_tr": "Amerika Birleşik Devletleri",
+          "wrong_nl": [
+            "Nederland",
+            "China",
+            "Japan"
+          ],
+          "wrong_tr": [
+            "Hollanda",
+            "Çin",
+            "Japonya"
+          ],
+          "place": "Verenigde Staten"
+        },
+        {
+          "q_nl": "Welke rivier vormt een deel van de grens tussen Mexico en de VS?",
+          "q_tr": "Hangi nehir Meksika ile ABD arasındaki sınırın bir kısmını oluşturur?",
+          "answer_nl": "Rio Grande",
+          "answer_tr": "Rio Grande",
+          "wrong_nl": [
+            "Mississippi",
+            "Colorado",
+            "Amazone"
+          ],
+          "wrong_tr": [
+            "Mississippi",
+            "Colorado",
+            "Amazon"
+          ],
+          "place": "Rio Grande"
+        },
+        {
+          "q_nl": "Vanuit welk land kwamen de meeste vluchtelingen naar buurland Colombia?",
+          "q_tr": "Komşu Kolombiya'ya en çok mülteci hangi ülkeden geldi?",
+          "answer_nl": "Venezuela",
+          "answer_tr": "Venezuela",
+          "wrong_nl": [
+            "Brazilië",
+            "Mexico",
+            "Argentinië"
+          ],
+          "wrong_tr": [
+            "Brezilya",
+            "Meksika",
+            "Arjantin"
+          ],
+          "place": "Venezuela"
+        }
+      ]
+    }
+  ]
+}
